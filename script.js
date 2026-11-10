@@ -18,7 +18,7 @@ const smartphoneData = {
          ramStorage: "512 MB / 8–16 GB",
          battery: "1.500 mAh",
          camera: "5 MP",
-         image: "3190/1001261115.jpg"
+         image: "1001261115.jpg"
         },
         {
           year: "2011",
@@ -28,7 +28,7 @@ const smartphoneData = {
           ramStorage: "1 GB / 16 GB",
           battery: "1.650 mAh",
           camera: "8 MP",
-          image: "3191/1001261180.jpg"
+          image: "1001261180.jpg"
         },
         {
           year: "2012",
@@ -38,7 +38,7 @@ const smartphoneData = {
           ramStorage: "1 GB / 16–32 GB",
           battery: "2.100 mAh",
           camera: "8 MP",
-          image: "3192/1001261186.jpg"
+          image: "1001261186.jpg"
         },
         {
           year: "2013",
@@ -48,7 +48,7 @@ const smartphoneData = {
           ramStorage: "2 GB / 16–64 GB",
           battery: "2.600 mAh",
           camera: "13 MP",
-          image: "3193/1001261196.jpg"
+          image: "1001261196.jpg"
         },
         {
           year: "2014",
@@ -58,7 +58,7 @@ const smartphoneData = {
           ramStorage: "2 GB / 16–32 GB",
           battery: "2.800 mAh",
           camera: "16 MP",
-          image: "3194/1001261208.jpg"
+          image: "1001261208.jpg"
         },
         {
           year: "2015",
@@ -68,7 +68,7 @@ const smartphoneData = {
           ramStorage: "3 GB / 32–128 GB",
           battery: "2.550 mAh",
           camera: "16 MP",
-          image: "3195/1001261219.jpg"
+          image: "1001261219.jpg"
         },
         {
           year: "2016",
@@ -78,7 +78,7 @@ const smartphoneData = {
           ramStorage: "4 GB / 32–128 GB",
           battery: "3.000 mAh",
           camera: "12 MP",
-          image: "3196/1001261239.jpg"
+          image: "1001261239.jpg"
         },
         {
           year: "2017",
@@ -88,7 +88,7 @@ const smartphoneData = {
           ramStorage: "4 GB / 64 GB",
           battery: "3.000 mAh",
           camera: "12 MP",
-          image: "3197/1001261247.jpg"
+          image: "1001261247.jpg"
         },
         {
           year: "2018",
@@ -98,7 +98,7 @@ const smartphoneData = {
           ramStorage: "4 GB / 64–256 GB",
           battery: "3.000 mAh",
           camera: "12 MP",
-          image: "3198/1001261260.jpg"
+          image: "1001261260.jpg"
         },
         {
           year: "2019",
@@ -108,7 +108,7 @@ const smartphoneData = {
           ramStorage: "8 GB / 128–512 GB",
           battery: "3.400 mAh",
           camera: "12 MP tripla (12 MP + 12 MP + 16 MP)",
-          image: "3200/1001261271.jpg"
+          image: "1001261271.jpg"
         },
         {
           year: "2020",
@@ -118,7 +118,7 @@ const smartphoneData = {
           ramStorage: "8–12 GB / 128 GB",
           battery: "4.000 mAh",
           camera: "12 MP tripla",
-          image: "3201/1001261363.jpg"
+          image: "1001261363.jpg"
         },
         {
           year: "2020",
@@ -128,7 +128,7 @@ const smartphoneData = {
           ramStorage: "12–16 GB / 128–512 GB",
           battery: "5.000 mAh",
           camera: "108 MP quádrupla",
-          image: "3202/1001261380.jpg"
+          image: "1001261380.jpg"
         },
         {
           year: "2021",
@@ -138,7 +138,7 @@ const smartphoneData = {
           ramStorage: "8 GB / 128–256 GB",
           battery: "4.000 mAh",
           camera: "12 MP tripla",
-          image: "3203/1001261423.jpg"
+          image: "1001261423.jpg"
         },
         {
           year: "2021",
@@ -148,7 +148,7 @@ const smartphoneData = {
           ramStorage: "12–16 GB / 128–512 GB",
           battery: "5.000 mAh",
           camera: "108 MP quádrupla",
-          image: "3204/1001261463.jpg"
+          image: "1001261463.jpg"
         },
         {
           year: "2022",
@@ -158,7 +158,7 @@ const smartphoneData = {
           ramStorage: "8 GB / 128–256 GB",
           battery: "3.700 mAh",
           camera: "50 MP tripla",
-          image: "3205/1001261473.jpg"
+          image: "1001261473.jpg"
         },
         {
           year: "2022",
@@ -168,7 +168,7 @@ const smartphoneData = {
           ramStorage: "8–12 GB / 128 GB–1 TB",
           battery: "5.000 mAh",
           camera: "108 MP quádrupla",
-          image: "3206/1001261494.jpg"
+          image: "1001261494.jpg"
         },
         {
           year: "2023",
@@ -178,7 +178,7 @@ const smartphoneData = {
           ramStorage: "8 GB / 128–512 GB",
           battery: "3.900 mAh",
           camera: "50 MP tripla",
-          image: "3207/1001261503.jpg"
+          image: "1001261503.jpg"
         },
         {
           year: "2023",
@@ -188,7 +188,7 @@ const smartphoneData = {
           ramStorage: "8–12 GB / 256 GB–1 TB",
           battery: "5.000 mAh",
           camera: "200 MP quádrupla",
-          image: "3208/1001261519.jpg"
+          image: "1001261519.jpg"
         },
         {
           year: "2024",
@@ -198,7 +198,7 @@ const smartphoneData = {
           ramStorage: "8 GB / 128–512 GB",
           battery: "4.000 mAh",
           camera: "50 MP tripla",
-          image: "3209/1001261532.jpg"
+          image: "1001261532.jpg"
         },
         {
           year: "2024",
@@ -208,7 +208,7 @@ const smartphoneData = {
           ramStorage: "12 GB / 256 GB–1 TB",
           battery: "5.000 mAh",
           camera: "200 MP quádrupla",
-          image: "3210/1001261605.jpg"
+          image: "1001261605.jpg"
         },
         {
           year: "2025",
@@ -218,7 +218,7 @@ const smartphoneData = {
           ramStorage: "12 GB / 128–512 GB",
           battery: "4.000 mAh",
           camera: "50 MP tripla",
-          image: "3211/1001261611.jpg"
+          image: "1001261611.jpg"
         },
         {
           year: "2025",
@@ -228,7 +228,7 @@ const smartphoneData = {
           ramStorage: "12–16 GB / 256 GB–1 TB",
           battery: "5.000 mAh",
           camera: "200 MP quádrupla",
-          image: "3212/1001261643.jpg"
+          image: "1001261643.jpg"
         },
         {
           year: "2026",
@@ -238,7 +238,7 @@ const smartphoneData = {
           ramStorage: "12 GB / 256–512 GB",
           battery: "4.300 mAh",
           camera: "50 MP tripla",
-          image: "3213/1001261726.jpg"
+          image: "1001261726.jpg"
         },
         {
           year: "2026",
@@ -248,7 +248,7 @@ const smartphoneData = {
           ramStorage: "12 GB / 256–512 GB",
           battery: "4.900 mAh",
           camera: "50 MP tripla",
-          image: "3215/1001261741.jpg"
+          image: "1001261741.jpg"
         },
         {
   year: "2026",
@@ -275,7 +275,7 @@ const smartphoneData = {
           ramStorage: "2–3 GB / 16–32 GB",
           battery: "3.400 mAh",
           camera: "13 MP dupla",
-          image: "3216/1001261760.jpg"
+          image: "1001261760.jpg"
         },
         {
           year: "2019",
@@ -285,7 +285,7 @@ const smartphoneData = {
           ramStorage: "3–4 GB / 32–64 GB",
           battery: "5.000 mAh",
           camera: "13 MP dupla",
-          image: "3217/1001262422.jpg"
+          image: "1001262422.jpg"
         },
         {
           year: "2019",
@@ -295,7 +295,7 @@ const smartphoneData = {
           ramStorage: "4–6 GB / 64–128 GB",
           battery: "5.000 mAh",
           camera: "13 MP tripla",
-          image: "3218/1001262484.jpg"
+          image: "1001262484.jpg"
         },
         {
           year: "2019",
@@ -305,7 +305,7 @@ const smartphoneData = {
           ramStorage: "4–6 GB / 64–128 GB",
           battery: "6.000 mAh",
           camera: "48 MP tripla",
-          image: "3219/1001262490.jpg"
+          image: "1001262490.jpg"
         },
         {
           year: "2019",
@@ -315,7 +315,7 @@ const smartphoneData = {
           ramStorage: "6 GB / 128 GB",
           battery: "3.500 mAh",
           camera: "32 MP tripla",
-          image: "3223/1001263129.jpg"
+          image: "1001263129.jpg"
         },
         {
           year: "2020",
@@ -325,7 +325,7 @@ const smartphoneData = {
           ramStorage: "3–4 GB / 32–64 GB",
           battery: "5.000 mAh",
           camera: "13 MP tripla",
-          image: "3224/1001263150.jpg"
+          image: "1001263150.jpg"
         },
         {
           year: "2020",
@@ -335,7 +335,7 @@ const smartphoneData = {
           ramStorage: "4–6 GB / 64–128 GB",
           battery: "6.000 mAh",
           camera: "48 MP tripla",
-          image: "3225/1001263198.jpg"
+          image: "1001263198.jpg"
         },
         {
           year: "2020",
@@ -345,7 +345,7 @@ const smartphoneData = {
           ramStorage: "6–8 GB / 64–128 GB",
           battery: "6.000 mAh",
           camera: "64 MP quádrupla",
-          image: "3226/1001263259.jpg"
+          image: "1001263259.jpg"
         },
         {
           year: "2020",
@@ -355,7 +355,7 @@ const smartphoneData = {
           ramStorage: "6–8 GB / 128 GB",
           battery: "7.000 mAh",
           camera: "64 MP quádrupla",
-          image: "3229/1001263403.jpg"
+          image: "1001263403.jpg"
         },
         {
           year: "2021",
@@ -365,7 +365,7 @@ const smartphoneData = {
           ramStorage: "3–6 GB / 32–128 GB",
           battery: "5.000 mAh",
           camera: "48 MP quádrupla",
-          image: "3230/1001263424.jpg"
+          image: "1001263424.jpg"
         },
         {
           year: "2021",
@@ -375,7 +375,7 @@ const smartphoneData = {
           ramStorage: "4–6 GB / 64–128 GB",
           battery: "5.000 mAh",
           camera: "48 MP quádrupla",
-          image: "3231/1001263442.jpg"
+          image: "1001263442.jpg"
         },
         {
           year: "2021",
@@ -385,7 +385,7 @@ const smartphoneData = {
           ramStorage: "4–8 GB / 64–128 GB",
           battery: "5.000 mAh",
           camera: "64 MP quádrupla",
-          image: "3232/1001263604.jpg"
+          image: "1001263604.jpg"
         },
         {
           year: "2021",
@@ -395,7 +395,7 @@ const smartphoneData = {
           ramStorage: "6–8 GB / 128 GB",
           battery: "5.000 mAh",
           camera: "48 MP quádrupla",
-          image: "3243/1001264444.jpg"
+          image: "1001264444.jpg"
         },
         {
           year: "2021",
@@ -405,7 +405,7 @@ const smartphoneData = {
           ramStorage: "6–8 GB / 128 GB",
           battery: "5.000 mAh",
           camera: "64 MP tripla",
-          image: "3244/1001264479.jpg"
+          image: "1001264479.jpg"
         },
         {
           year: "2021",
@@ -415,7 +415,7 @@ const smartphoneData = {
           ramStorage: "6–8 GB / 128–256 GB",
           battery: "7.000 mAh",
           camera: "64 MP quádrupla",
-          image: "3245/1001264498.jpg"
+          image: "1001264498.jpg"
         },
         {
           year: "2022",
@@ -425,7 +425,7 @@ const smartphoneData = {
           ramStorage: "4–6 GB / 64–128 GB",
           battery: "5.000 mAh",
           camera: "50 MP tripla",
-          image: "3246/1001264509.jpg"
+          image: "1001264509.jpg"
         },
         {
           year: "2022",
@@ -435,7 +435,7 @@ const smartphoneData = {
           ramStorage: "4–6 GB / 64–128 GB",
           battery: "5.000 mAh",
           camera: "50 MP tripla",
-          image: "3247/1001264851.jpg"
+          image: "1001264851.jpg"
         },
         {
           year: "2022",
@@ -445,7 +445,7 @@ const smartphoneData = {
           ramStorage: "4–6 GB / 128 GB",
           battery: "5.000 mAh",
           camera: "50 MP tripla",
-          image: "3248/1001264857.jpg"
+          image: "1001264857.jpg"
         },
         {
           year: "2022",
@@ -455,7 +455,7 @@ const smartphoneData = {
           ramStorage: "6–8 GB / 128 GB",
           battery: "6.000 mAh",
           camera: "50 MP quádrupla",
-          image: "3249/1001264899.jpg"
+          image: "1001264899.jpg"
         },
         {
           year: "2022",
@@ -465,7 +465,7 @@ const smartphoneData = {
           ramStorage: "6–8 GB / 128 GB",
           battery: "5.000 mAh",
           camera: "108 MP quádrupla",
-          image: "3250/1001264952.jpg"
+          image: "1001264952.jpg"
         },
         {
           year: "2023",
@@ -475,7 +475,7 @@ const smartphoneData = {
           ramStorage: "4–6 GB / 64–128 GB",
           battery: "6.000 mAh",
           camera: "50 MP tripla",
-          image: "3251/1001264970.jpg"
+          image: "1001264970.jpg"
         },
         {
           year: "2024",
@@ -485,7 +485,7 @@ const smartphoneData = {
           ramStorage: "4–8 GB / 128 GB",
           battery: "6.000 mAh",
           camera: "50 MP tripla",
-          image: "3252/1001264986.jpg"
+          image: "1001264986.jpg"
         },
         {
           year: "2024",
@@ -495,7 +495,7 @@ const smartphoneData = {
           ramStorage: "6–8 GB / 128–256 GB",
           battery: "6.000 mAh",
           camera: "50 MP tripla",
-          image: "3253/1001264999.jpg"
+          image: "1001264999.jpg"
         },
         {
           year: "2024",
@@ -505,7 +505,7 @@ const smartphoneData = {
           ramStorage: "8–12 GB / 128–256 GB",
           battery: "5.000 mAh",
           camera: "50 MP tripla",
-          image: "3254/1001265005.jpg"
+          image: "1001265005.jpg"
         },
         {
           year: "2025",
@@ -515,7 +515,7 @@ const smartphoneData = {
           ramStorage: "4–8 GB / 128 GB",
           battery: "5.000 mAh",
           camera: "50 MP tripla",
-          image: "3255/1001265027.jpg"
+          image: "1001265027.jpg"
         },
         {
           year: "2025",
@@ -525,7 +525,7 @@ const smartphoneData = {
           ramStorage: "4–6 GB / 128 GB",
           battery: "5.000 mAh",
           camera: "50 MP dupla",
-          image: "3256/1001265054.jpg"
+          image: "1001265054.jpg"
         }
       ],
       "Galaxy A": [
@@ -537,7 +537,7 @@ const smartphoneData = {
           ramStorage: "1 GB / 16 GB",
           battery: "1.900 mAh",
           camera: "8 MP",
-          image: "3171/1001260552.jpg"
+          image: "1001260552.jpg"
         },
         {
           year: "2014",
@@ -547,7 +547,7 @@ const smartphoneData = {
           ramStorage: "1.5 GB / 16 GB",
           battery: "2.300 mAh",
           camera: "13 MP",
-          image: "3172/1001260724.jpg"
+          image: "1001260724.jpg"
         },
         {
           year: "2015",
@@ -557,7 +557,7 @@ const smartphoneData = {
           ramStorage: "2 GB / 16–32 GB",
           battery: "2.600 mAh",
           camera: "13 MP",
-          image: "3173/1001260742.jpg"
+          image: "1001260742.jpg"
         },
         {
           year: "2016",
@@ -567,7 +567,7 @@ const smartphoneData = {
           ramStorage: "2 GB / 16 GB",
           battery: "2.900 mAh",
           camera: "13 MP",
-          image: "3174/1001260771.jpg"
+          image: "1001260771.jpg"
         },
         {
           year: "2017",
@@ -577,7 +577,7 @@ const smartphoneData = {
           ramStorage: "3 GB / 32 GB",
           battery: "3.000 mAh",
           camera: "16 MP",
-          image: "3175/1001260954.jpg"
+          image: "1001260954.jpg"
         },
         {
           year: "2018",
@@ -587,7 +587,7 @@ const smartphoneData = {
           ramStorage: "4 GB / 32–64 GB",
           battery: "3.000 mAh",
           camera: "16 MP",
-          image: "3176/1001260960.jpg"
+          image: "1001260960.jpg"
         },
         {
           year: "2019",
@@ -597,7 +597,7 @@ const smartphoneData = {
           ramStorage: "4–6 GB / 64–128 GB",
           battery: "4.000 mAh",
           camera: "25 MP tripla",
-          image: "3177/1001260987.jpg"
+          image: "1001260987.jpg"
         },
         {
           year: "2020",
@@ -607,7 +607,7 @@ const smartphoneData = {
           ramStorage: "4–8 GB / 64–128 GB",
           battery: "4.000 mAh",
           camera: "48 MP quádrupla",
-          image: "3178/1001260997.jpg"
+          image: "1001260997.jpg"
         },
         {
           year: "2020",
@@ -617,7 +617,7 @@ const smartphoneData = {
           ramStorage: "3–6 GB / 32–128 GB",
           battery: "5.000 mAh",
           camera: "48 MP quádrupla",
-          image: "3179/1001261009.jpg"
+          image: "1001261009.jpg"
         },
         {
           year: "2021",
@@ -627,7 +627,7 @@ const smartphoneData = {
           ramStorage: "4–8 GB / 128–256 GB",
           battery: "4.500 mAh",
           camera: "64 MP quádrupla",
-          image: "3180/1001261018.jpg"
+          image: "1001261018.jpg"
         },
         {
           year: "2021",
@@ -637,7 +637,7 @@ const smartphoneData = {
           ramStorage: "6–8 GB / 128–256 GB",
           battery: "4.500 mAh",
           camera: "64 MP quádrupla",
-          image: "3181/1001261026.jpg"
+          image: "1001261026.jpg"
         },
         {
           year: "2022",
@@ -647,7 +647,7 @@ const smartphoneData = {
           ramStorage: "6–8 GB / 128–256 GB",
           battery: "5.000 mAh",
           camera: "64 MP quádrupla",
-          image: "3182/1001261033.jpg"
+          image: "1001261033.jpg"
         },
         {
           year: "2023",
@@ -657,7 +657,7 @@ const smartphoneData = {
           ramStorage: "6–8 GB / 128–256 GB",
           battery: "5.000 mAh",
           camera: "50 MP tripla",
-          image: "3183/1001261039.jpg"
+          image: "1001261039.jpg"
         },
         {
           year: "2023",
@@ -667,7 +667,7 @@ const smartphoneData = {
           ramStorage: "4–6 GB / 64–128 GB",
           battery: "5.000 mAh",
           camera: "50 MP tripla",
-          image: "3184/1001261063.jpg"
+          image: "1001261063.jpg"
         },
         {
           year: "2023",
@@ -677,7 +677,7 @@ const smartphoneData = {
           ramStorage: "4–6 GB / 64–128 GB",
           battery: "5.000 mAh",
           camera: "50 MP tripla",
-          image: "3185/1001261069.jpg"
+          image: "1001261069.jpg"
         },
         {
           year: "2024",
@@ -687,7 +687,7 @@ const smartphoneData = {
           ramStorage: "8 GB / 128–256 GB",
           battery: "5.000 mAh",
           camera: "50 MP tripla",
-          image: "3186/1001261080.jpg"
+          image: "1001261080.jpg"
         },
         {
           year: "2024",
@@ -697,7 +697,7 @@ const smartphoneData = {
           ramStorage: "4–8 GB / 128–256 GB",
           battery: "5.000 mAh",
           camera: "50 MP tripla",
-          image: "3187/1001261088.jpg"
+          image: "1001261088.jpg"
         },
         {
           year: "2024",
@@ -707,7 +707,7 @@ const smartphoneData = {
           ramStorage: "4–8 GB / 128–256 GB",
           battery: "5.000 mAh",
           camera: "50 MP tripla",
-          image: "3188/1001261094.jpg"
+          image: "1001261094.jpg"
         },
         {
           year: "2025",
@@ -717,7 +717,7 @@ const smartphoneData = {
           ramStorage: "8–12 GB / 128–256 GB",
           battery: "5.000 mAh",
           camera: "50 MP tripla",
-          image: "3189/1001261104.jpg"
+          image: "1001261104.jpg"
         }
       ],
       "Galaxy Z": [
@@ -729,7 +729,7 @@ const smartphoneData = {
           ramStorage: "12 GB / 512 GB",
           battery: "4.235 mAh",
           camera: "12 MP tripla",
-          image: "3156/1001260041.jpg"
+          image: "1001260041.jpg"
         },
         {
           year: "2020",
@@ -739,7 +739,7 @@ const smartphoneData = {
           ramStorage: "8 GB / 256 GB",
           battery: "3.300 mAh",
           camera: "12 MP dupla",
-          image: "3157/1001260050.jpg"
+          image: "1001260050.jpg"
         },
         {
           year: "2020",
@@ -749,7 +749,7 @@ const smartphoneData = {
           ramStorage: "12 GB / 256–512 GB",
           battery: "4.500 mAh",
           camera: "12 MP tripla",
-          image: "3158/1001260056.jpg"
+          image: "1001260056.jpg"
         },
         {
           year: "2021",
@@ -759,7 +759,7 @@ const smartphoneData = {
           ramStorage: "12 GB / 256–512 GB",
           battery: "4.400 mAh",
           camera: "12 MP tripla",
-          image: "3159/1001260062.jpg"
+          image: "1001260062.jpg"
         },
         {
           year: "2021",
@@ -769,7 +769,7 @@ const smartphoneData = {
           ramStorage: "8 GB / 128–256 GB",
           battery: "3.300 mAh",
           camera: "12 MP dupla",
-          image: "3161/1001260074.jpg"
+          image: "1001260074.jpg"
         },
         {
           year: "2022",
@@ -779,7 +779,7 @@ const smartphoneData = {
           ramStorage: "12 GB / 256 GB–1 TB",
           battery: "4.400 mAh",
           camera: "50 MP tripla",
-          image: "3160/1001260068.jpg"
+          image: "1001260068.jpg"
         },
         {
           year: "2022",
@@ -789,7 +789,7 @@ const smartphoneData = {
           ramStorage: "8 GB / 128–512 GB",
           battery: "3.700 mAh",
           camera: "12 MP dupla",
-          image: "3162/1001260081.jpg"
+          image: "1001260081.jpg"
         },
         {
           year: "2023",
@@ -799,7 +799,7 @@ const smartphoneData = {
           ramStorage: "12 GB / 256 GB–1 TB",
           battery: "4.400 mAh",
           camera: "50 MP tripla",
-          image: "3163/1001260092.jpg"
+          image: "1001260092.jpg"
         },
         {
           year: "2023",
@@ -809,7 +809,7 @@ const smartphoneData = {
           ramStorage: "8 GB / 256–512 GB",
           battery: "3.700 mAh",
           camera: "12 MP dupla",
-          image: "3165/1001260098.jpg"
+          image: "1001260098.jpg"
         },
         {
           year: "2024",
@@ -825,7 +825,7 @@ const smartphoneData = {
           resistance: "IP48",
           sPen: "Sim (vendida separadamente)",
           os: "Android 14 (atualizável)",
-          image: "3166/1001260507.jpg"
+          image: "1001260507.jpg"
         },
         {
           year: "2024",
@@ -835,7 +835,7 @@ const smartphoneData = {
           ramStorage: "8–12 GB / 256–512 GB",
           battery: "4.000 mAh",
           camera: "50 MP dupla",
-          image: "3167/1001260513.jpg"
+          image: "1001260513.jpg"
         },
         {
           year: "2025",
@@ -845,7 +845,7 @@ const smartphoneData = {
           ramStorage: "12–16 GB / 256 GB–1 TB",
           battery: "4.400 mAh",
           camera: "50 MP tripla",
-          image: "3168/1001260525.jpg"
+          image: "1001260525.jpg"
         },
         {
           year: "2025",
@@ -855,7 +855,7 @@ const smartphoneData = {
           ramStorage: "12 GB / 256–512 GB",
           battery: "4.000 mAh",
           camera: "50 MP dupla",
-          image: "3170/1001260535.jpg"
+          image: "1001260535.jpg"
         }
       ],
       "Galaxy Note": [
@@ -867,7 +867,7 @@ const smartphoneData = {
           ramStorage: "1 GB / 16–32 GB",
           battery: "2.500 mAh",
           camera: "8 MP",
-          image: "3135/1001259220.jpg"
+          image: "1001259220.jpg"
         },
         {
           year: "2012",
@@ -877,7 +877,7 @@ const smartphoneData = {
           ramStorage: "2 GB / 16–64 GB",
           battery: "3.100 mAh",
           camera: "8 MP",
-          image: "3136/1001259241.jpg"
+          image: "1001259241.jpg"
         },
         {
           year: "2013",
@@ -887,7 +887,7 @@ const smartphoneData = {
           ramStorage: "3 GB / 32–64 GB",
           battery: "3.200 mAh",
           camera: "13 MP",
-          image: "3137/1001259263.jpg"
+          image: "1001259263.jpg"
         },
         {
           year: "2014",
@@ -897,7 +897,7 @@ const smartphoneData = {
           ramStorage: "3 GB / 32 GB",
           battery: "3.220 mAh",
           camera: "16 MP",
-          image: "3138/1001259275.jpg"
+          image: "1001259275.jpg"
         },
         {
           year: "2015",
@@ -907,7 +907,7 @@ const smartphoneData = {
           ramStorage: "4 GB / 32–64 GB",
           battery: "3.000 mAh",
           camera: "16 MP",
-          image: "3139/1001259284.jpg"
+          image: "1001259284.jpg"
         },
         {
           year: "2016",
@@ -917,7 +917,7 @@ const smartphoneData = {
           ramStorage: "4 GB / 64 GB",
           battery: "3.500 mAh (original) / 3.200 mAh (FE)",
           camera: "12 MP",
-          image: "3140/1001259296.jpg"
+          image: "1001259296.jpg"
         },
         {
           year: "2017",
@@ -927,7 +927,7 @@ const smartphoneData = {
           ramStorage: "6 GB / 64–256 GB",
           battery: "3.300 mAh",
           camera: "12 MP dupla",
-          image: "3141/1001259302.jpg"
+          image: "1001259302.jpg"
         },
         {
           year: "2018",
@@ -937,7 +937,7 @@ const smartphoneData = {
           ramStorage: "6–8 GB / 128–512 GB",
           battery: "4.000 mAh",
           camera: "12 MP dupla",
-          image: "3153/1001259349.jpg"
+          image: "1001259349.jpg"
         },
         {
           year: "2019",
@@ -947,7 +947,7 @@ const smartphoneData = {
           ramStorage: "8 GB / 256 GB",
           battery: "3.500 mAh",
           camera: "12 MP tripla",
-          image: "3154/1001259641.jpg"
+          image: "1001259641.jpg"
         },
         {
           year: "2020",
@@ -957,7 +957,7 @@ const smartphoneData = {
           ramStorage: "8 GB / 256 GB",
           battery: "4.300 mAh",
           camera: "12 MP tripla",
-          image: "3155/1001260035.jpg"
+          image: "1001260035.jpg"
         }
       ]
     }
