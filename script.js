@@ -263,7 +263,7 @@ const smartphoneData = {
   dimensions: "163.6 x 78.1 x 7.9 mm, 214 g",
   resistance: "IP68",
   sPen: "Sim",
-  image: "3258/1001265502.jpg"
+  image: "1001265502.jpg"
         }
       ],
       "Galaxy M": [
