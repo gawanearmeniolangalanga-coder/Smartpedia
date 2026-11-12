@@ -976,7 +976,7 @@ const smartphoneData = {
           ramStorage: "128 MB / 4–16 GB",
           battery: "1.400 mAh",
           camera: "2 MP",
-          image: "3103/1001256336.jpg"
+          image: "1001256336.jpg"
         },
         {
           year: "2008",
@@ -986,7 +986,7 @@ const smartphoneData = {
           ramStorage: "128 MB / 8–16 GB",
           battery: "1.150 mAh",
           camera: "2 MP",
-          image: "3104/1001256352.jpg"
+          image: "1001256352.jpg"
         },
         {
           year: "2009",
@@ -996,7 +996,7 @@ const smartphoneData = {
           ramStorage: "256 MB / 8–32 GB",
           battery: "1.219 mAh",
           camera: "3.2 MP",
-          image: "3105/1001256391.jpg"
+          image: "1001256391.jpg"
         },
         {
           year: "2010",
