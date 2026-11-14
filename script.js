@@ -1468,8 +1468,8 @@ const smartphoneData = {
       "Xiaomi Number Series": [
         { year: "2011", model: "Xiaomi Mi 1", screen: '4.0" LCD', processor: "Snapdragon S3", ramStorage: "1 GB / 4 GB", battery: "1.930 mAh", camera: "8 MP", image: "1001253674.jpg" },
         { year: "2012", model: "Xiaomi Mi 2", screen: '4.3" LCD', processor: "Snapdragon S4 Pro", ramStorage: "2 GB / 16–32 GB", battery: "2.000 mAh", camera: "8 MP", image: "1001253685.jpg" },
-        { year: "2013", model: "Xiaomi Mi 3", screen: '5.0" LCD', processor: "Snapdragon 800", ramStorage: "2 GB / 16–64 GB", battery: "3.050 mAh", camera: "13 MP", image: "images/xiaomi-mi3.jpg" },
-        { year: "2014", model: "Xiaomi Mi 4", screen: '5.0" LCD', processor: "Snapdragon 801", ramStorage: "3 GB / 16–64 GB", battery: "3.080 mAh", camera: "13 MP", image: "images/xiaomi-mi4.jpg" },
+        { year: "2013", model: "Xiaomi Mi 3", screen: '5.0" LCD', processor: "Snapdragon 800", ramStorage: "2 GB / 16–64 GB", battery: "3.050 mAh", camera: "13 MP", image: "xiaomi-mi3.jpg" },
+        { year: "2014", model: "Xiaomi Mi 4", screen: '5.0" LCD', processor: "Snapdragon 801", ramStorage: "3 GB / 16–64 GB", battery: "3.080 mAh", camera: "13 MP", image: "xiaomi-mi4.jpg" },
         { year: "2015", model: "Xiaomi Mi 5", screen: '5.15" LCD', processor: "Snapdragon 820", ramStorage: "3–4 GB / 32–128 GB", battery: "3.000 mAh", camera: "16 MP", image: "1001253719.jpg" },
         { year: "2016", model: "Xiaomi Mi 5s", screen: '5.15" LCD', processor: "Snapdragon 821", ramStorage: "3–4 GB / 64–128 GB", battery: "3.200 mAh", camera: "12 MP", image: "1001253729.jpg" },
         { year: "2017", model: "Xiaomi Mi 6", screen: '5.15" LCD', processor: "Snapdragon 835", ramStorage: "4–6 GB / 64–128 GB", battery: "3.350 mAh", camera: "12 MP dupla", image: "1001253740.jpg" },
@@ -1477,8 +1477,8 @@ const smartphoneData = {
         { year: "2019", model: "Xiaomi Mi 9", screen: '6.39" AMOLED', processor: "Snapdragon 855", ramStorage: "6–8 GB / 64–256 GB", battery: "3.300 mAh", camera: "48 MP tripla", image: "1001253755.jpg" },
         { year: "2020", model: "Xiaomi Mi 10", screen: '6.67" AMOLED 90Hz', processor: "Snapdragon 865", ramStorage: "6–12 GB / 128–256 GB", battery: "4.780 mAh", camera: "108 MP quádrupla", image: "1001253814.jpg" },
         { year: "2021", model: "Xiaomi Mi 11", screen: '6.81" AMOLED 120Hz', processor: "Snapdragon 888", ramStorage: "8–12 GB / 128–256 GB", battery: "4.600 mAh", camera: "108 MP tripla", image: "Xiaomi.jpg" },
-        { year: "2022", model: "Xiaomi 12", screen: '6.28" AMOLED 120Hz', processor: "Snapdragon 8 Gen 1", ramStorage: "8–12 GB / 128–256 GB", battery: "4.500 mAh", camera: "50 MP tripla", image: "images/xiaomi-12-azul.jpg" },
-        { year: "2023", model: "Xiaomi 13", screen: '6.36" AMOLED 120Hz', processor: "Snapdragon 8 Gen 2", ramStorage: "8–12 GB / 128–512 GB", battery: "4.500 mAh", camera: "50 MP tripla", image: "images/xiaomi-13-vermelho.jpg" },
+        { year: "2022", model: "Xiaomi 12", screen: '6.28" AMOLED 120Hz', processor: "Snapdragon 8 Gen 1", ramStorage: "8–12 GB / 128–256 GB", battery: "4.500 mAh", camera: "50 MP tripla", image: "xiaomi-12-azul.jpg" },
+        { year: "2023", model: "Xiaomi 13", screen: '6.36" AMOLED 120Hz', processor: "Snapdragon 8 Gen 2", ramStorage: "8–12 GB / 128–512 GB", battery: "4.500 mAh", camera: "50 MP tripla", image: "xiaomi-13-vermelho.jpg" },
         { year: "2024", model: "Xiaomi 14", screen: '6.36" AMOLED 120Hz', processor: "Snapdragon 8 Gen 3", ramStorage: "8–16 GB / 256 GB–1 TB", battery: "4.610 mAh", camera: "50 MP tripla", image: "1001254318.jpg" },
         { year: "2025", model: "Xiaomi 15", screen: '6.36" AMOLED 120Hz', processor: "Snapdragon 8 Elite", ramStorage: "12–16 GB / 256 GB–1 TB", battery: "5.400 mAh", camera: "50 MP tripla", image: "1001254544.jpg" },
         { year: "2026", model: "Xiaomi 17", screen: '6.36" AMOLED 120Hz', processor: "Snapdragon 8 Elite Gen 5", ramStorage: "12–16 GB / 256 GB–1 TB", battery: "6.000 mAh", camera: "50 MP tripla", image: "1001254569.jpg" },
@@ -1531,8 +1531,8 @@ const smartphoneData = {
         { year: "2016", model: "Redmi Note 4", screen: '5.5" LCD', processor: "Snapdragon 625", ramStorage: "2–4 GB / 32–64 GB", battery: "4.100 mAh", camera: "13 MP", image: "1001252594.jpg" },
         { year: "2017", model: "Redmi Note 5", screen: '5.99" LCD', processor: "Snapdragon 636", ramStorage: "3–6 GB / 32–64 GB", battery: "4.000 mAh", camera: "12 MP dupla", image: "1001252602.jpg" },
         { year: "2018", model: "Redmi Note 6 Pro", screen: '6.26" LCD', processor: "Snapdragon 636", ramStorage: "4–6 GB / 64 GB", battery: "4.000 mAh", camera: "12 MP dupla", image: "1001252612.jpg" },
-        { year: "2019", model: "Redmi Note 7", screen: '6.3" LCD', processor: "Snapdragon 660", ramStorage: "3–6 GB / 32–128 GB", battery: "4.000 mAh", camera: "48 MP dupla", image: "images/redmi-note-7.jpg" },
-        { year: "2019", model: "Redmi Note 8 Pro", screen: '6.53" LCD', processor: "MediaTek Helio G90T", ramStorage: "6–8 GB / 64–128 GB", battery: "4.500 mAh", camera: "64 MP quádrupla", image: "images/redmi-note-8-pro.jpg" },
+        { year: "2019", model: "Redmi Note 7", screen: '6.3" LCD', processor: "Snapdragon 660", ramStorage: "3–6 GB / 32–128 GB", battery: "4.000 mAh", camera: "48 MP dupla", image: "redmi-note-7.jpg" },
+        { year: "2019", model: "Redmi Note 8 Pro", screen: '6.53" LCD', processor: "MediaTek Helio G90T", ramStorage: "6–8 GB / 64–128 GB", battery: "4.500 mAh", camera: "64 MP quádrupla", image: "redmi-note-8-pro.jpg" },
         { year: "2020", model: "Redmi Note 9 Pro", screen: '6.67" LCD', processor: "Snapdragon 720G", ramStorage: "6 GB / 64–128 GB", battery: "5.020 mAh", camera: "64 MP quádrupla", image: "1001252687.jpg" },
         { year: "2021", model: "Redmi Note 10 Pro", screen: '6.67" AMOLED 120Hz', processor: "Snapdragon 732G", ramStorage: "6–8 GB / 64–128 GB", battery: "5.020 mAh", camera: "108 MP quádrupla", image: "1001253289.jpg" },
         { year: "2022", model: "Redmi Note 11 Pro+", screen: '6.67" AMOLED 120Hz', processor: "MediaTek Dimensity 920", ramStorage: "6–8 GB / 128–256 GB", battery: "4.500 mAh", camera: "108 MP tripla", image: "1001253295.jpg" },
@@ -1584,7 +1584,7 @@ const smartphoneData = {
       "POCO C": [
         { year: "2022", model: "POCO C40", screen: '6.71" LCD', processor: "JLQ JR510", ramStorage: "3–4 GB / 32–64 GB", battery: "6.000 mAh", camera: "13 MP dupla", image: "1001246862.jpg" },
         { year: "2023", model: "POCO C55", screen: '6.71" LCD', processor: "MediaTek Helio G85", ramStorage: "4–6 GB / 64–128 GB", battery: "5.000 mAh", camera: "50 MP dupla", image: "images/poco-c55.jpg" },
-        { year: "2024", model: "POCO C65", screen: '6.74" LCD 90Hz', processor: "MediaTek Helio G85", ramStorage: "6–8 GB / 128–256 GB", battery: "5.000 mAh", camera: "50 MP tripla", image: "images/poco-azul.jpg" }
+        { year: "2024", model: "POCO C65", screen: '6.74" LCD 90Hz', processor: "MediaTek Helio G85", ramStorage: "6–8 GB / 128–256 GB", battery: "5.000 mAh", camera: "50 MP tripla", image: "poco-azul.jpg" }
       ]
     }
   },
@@ -1644,7 +1644,7 @@ const smartphoneData = {
         { year: "2023", model: "Honor Magic 5 Pro", screen: '6.81" LTPO OLED 120Hz', processor: "Snapdragon 8 Gen 2", ramStorage: "12 GB / 256–512 GB", battery: "5.100 mAh", camera: "50 MP tripla", image: "1001246398.jpg" },
         { year: "2024", model: "Honor Magic 6 Pro", screen: '6.8" LTPO OLED 120Hz', processor: "Snapdragon 8 Gen 3", ramStorage: "12–16 GB / 256 GB–1 TB", battery: "5.600 mAh", camera: "50 MP tripla", image: "1001246408.jpg" },
         { year: "2025", model: "Honor Magic 7 Pro", screen: '6.8" LTPO OLED 120Hz', processor: "Snapdragon 8 Elite", ramStorage: "12–16 GB / 256 GB–1 TB", battery: "5.850 mAh", camera: "50 MP tripla", image: "1001246414.jpg" },
-        { year: "2026", model: "Honor Magic 8 Pro", screen: '6.8" LTPO OLED 120Hz', processor: "Snapdragon 8 Elite Gen 5", ramStorage: "12–16 GB / 256 GB–1 TB", battery: "6.000 mAh", camera: "200 MP tripla", image: "images/honor-magic-8-pro.jpg" }
+        { year: "2026", model: "Honor Magic 8 Pro", screen: '6.8" LTPO OLED 120Hz', processor: "Snapdragon 8 Elite Gen 5", ramStorage: "12–16 GB / 256 GB–1 TB", battery: "6.000 mAh", camera: "200 MP tripla", image: "honor-magic-8-pro.jpg" }
       ],
       "HONOR X": [
         { year: "2021", model: "Honor X10", screen: '6.63" LCD 90Hz', processor: "Kirin 820", ramStorage: "6–8 GB / 128 GB", battery: "4.300 mAh", camera: "40 MP tripla", image: "1001246281.jpg" },
@@ -1675,7 +1675,7 @@ const smartphoneData = {
         { year: "2024", model: "Oppo Reno 12 Pro", screen: '6.7" AMOLED 120Hz', processor: "MediaTek Dimensity 9200+", ramStorage: "12 GB / 256–512 GB", battery: "5.000 mAh", camera: "50 MP tripla", image: "1001246157.jpg" }
       ],
       "OPPO A": [
-        { year: "2020", model: "Oppo A52", screen: '6.5" LCD', processor: "Snapdragon 665", ramStorage: "4–8 GB / 64–128 GB", battery: "5.000 mAh", camera: "12 MP quádrupla", image: "images/oppo-preto.jpg" },
+        { year: "2020", model: "Oppo A52", screen: '6.5" LCD', processor: "Snapdragon 665", ramStorage: "4–8 GB / 64–128 GB", battery: "5.000 mAh", camera: "12 MP quádrupla", image: "oppo-preto.jpg" },
         { year: "2022", model: "Oppo A57", screen: '6.56" LCD 90Hz', processor: "MediaTek Helio G35", ramStorage: "4–6 GB / 64–128 GB", battery: "5.000 mAh", camera: "13 MP dupla", image: "1001245430.jpg" },
         { year: "2023", model: "Oppo A78", screen: '6.43" AMOLED 90Hz', processor: "Snapdragon 680", ramStorage: "8 GB / 128–256 GB", battery: "5.000 mAh", camera: "50 MP dupla", image: "1001245865.jpg" }
       ]
@@ -1686,7 +1686,7 @@ const smartphoneData = {
     history: "Fundada em 2009 na China, a vivo ganhou destaque global pelo seu forte foco em inovação de áudio de alta fidelidade e tecnologia fotográfica de vanguarda. A marca foi pioneira na introdução do leitor de impressões digitais sob o ecrã e de sistemas de estabilização gimbal em câmaras móveis, mantendo parcerias estratégicas como a Zeiss para a sua principal série X.",
     lines: {
       "vivo X Series": [
-        { year: "2012", model: "vivo X1", screen: '4.7" LCD', processor: "MediaTek MT6589", ramStorage: "1 GB / 16 GB", battery: "2.000 mAh", camera: "8 MP", image: "images/vivo-branco.jpg" },
+        { year: "2012", model: "vivo X1", screen: '4.7" LCD', processor: "MediaTek MT6589", ramStorage: "1 GB / 16 GB", battery: "2.000 mAh", camera: "8 MP", image: "vivo-branco.jpg" },
         { year: "2014", model: "vivo X5 Max", screen: '5.5" Super AMOLED', processor: "Snapdragon 615", ramStorage: "2 GB / 16 GB", battery: "2.000 mAh", camera: "13 MP", image: "1001244913.jpg" },
         { year: "2016", model: "vivo X7", screen: '5.2" Super AMOLED', processor: "Snapdragon 652", ramStorage: "4 GB / 64 GB", battery: "3.000 mAh", camera: "13 MP", image: "1001245093.jpg" },
         { year: "2019", model: "vivo X30 Pro", screen: '6.44" Super AMOLED', processor: "Exynos 980", ramStorage: "8 GB / 128–256 GB", battery: "4.350 mAh", camera: "64 MP quádrupla", image: "1001245130.jpg" },
@@ -1696,15 +1696,15 @@ const smartphoneData = {
         { year: "2023", model: "vivo X90 Pro+", screen: '6.78" LTPO AMOLED 120Hz', processor: "Snapdragon 8 Gen 2", ramStorage: "12–16 GB / 256–512 GB", battery: "4.700 mAh", camera: "50 MP quádrupla", image: "1001245222.jpg" },
         { year: "2024", model: "vivo X100 Pro", screen: '6.78" LTPO AMOLED 120Hz', processor: "MediaTek Dimensity 9300", ramStorage: "12–16 GB / 256 GB–1 TB", battery: "5.400 mAh", camera: "50 MP tripla", image: "1001245231.jpg" },
         { year: "2025", model: "vivo X200 Pro", screen: '6.78" LTPO AMOLED 120Hz', processor: "MediaTek Dimensity 9400", ramStorage: "12–16 GB / 256 GB–1 TB", battery: "6.000 mAh", camera: "50 MP tripla", image: "1001245239.jpg" },
-        { year: "2026", model: "vivo X300 Pro", screen: '6.78" LTPO AMOLED 120Hz', processor: "MediaTek Dimensity 9500", ramStorage: "12–16 GB / 256 GB–1 TB", battery: "6.200 mAh", camera: "200 MP tripla", image: "images/vivo-x-zeiss.jpg" }
+        { year: "2026", model: "vivo X300 Pro", screen: '6.78" LTPO AMOLED 120Hz', processor: "MediaTek Dimensity 9500", ramStorage: "12–16 GB / 256 GB–1 TB", battery: "6.200 mAh", camera: "200 MP tripla", image: "vivo-x-zeiss.jpg" }
       ],
       "vivo NEX Series": [
-        { year: "2018", model: "vivo NEX", screen: '6.59" Super AMOLED', processor: "Snapdragon 845", ramStorage: "8 GB / 128–256 GB", battery: "4.000 mAh", camera: "12 MP dupla", image: "images/vivo-nex.jpg" }
+        { year: "2018", model: "vivo NEX", screen: '6.59" Super AMOLED', processor: "Snapdragon 845", ramStorage: "8 GB / 128–256 GB", battery: "4.000 mAh", camera: "12 MP dupla", image: "vivo-nex.jpg" }
       ],
       "vivo V Series": [
         { year: "2019", model: "vivo V15 Pro", screen: '6.39" Super AMOLED', processor: "Snapdragon 675", ramStorage: "6–8 GB / 128 GB", battery: "3.700 mAh", camera: "48 MP tripla", image: "1001244804.jpg" },
-        { year: "2021", model: "vivo V21 5G", screen: '6.44" AMOLED 90Hz', processor: "MediaTek Dimensity 800U", ramStorage: "8 GB / 128–256 GB", battery: "4.000 mAh", camera: "64 MP tripla", image: "images/vivo-roxo.jpg" },
-        { year: "2023", model: "vivo V29 Pro", screen: '6.78" AMOLED 120Hz', processor: "MediaTek Dimensity 8200", ramStorage: "8–12 GB / 256 GB", battery: "4.600 mAh", camera: "50 MP tripla", image: "images/vivo-v29.jpg" }
+        { year: "2021", model: "vivo V21 5G", screen: '6.44" AMOLED 90Hz', processor: "MediaTek Dimensity 800U", ramStorage: "8 GB / 128–256 GB", battery: "4.000 mAh", camera: "64 MP tripla", image: "vivo-roxo.jpg" },
+        { year: "2023", model: "vivo V29 Pro", screen: '6.78" AMOLED 120Hz', processor: "MediaTek Dimensity 8200", ramStorage: "8–12 GB / 256 GB", battery: "4.600 mAh", camera: "50 MP tripla", image: "vivo-v29.jpg" }
       ]
     }
   },
@@ -1719,7 +1719,7 @@ const smartphoneData = {
         { year: "2022", model: "iQOO 9 Pro", screen: '6.78" LTPO AMOLED 120Hz', processor: "Snapdragon 8 Gen 1", ramStorage: "8–12 GB / 256–512 GB", battery: "4.700 mAh", camera: "50 MP tripla", image: "1001244773.jpg" },
         { year: "2023", model: "iQOO 11 Pro", screen: '6.78" LTPO AMOLED 144Hz', processor: "Snapdragon 8 Gen 2", ramStorage: "8–16 GB / 256–512 GB", battery: "4.700 mAh", camera: "50 MP tripla", image: "1001244779.jpg" },
         { year: "2024", model: "iQOO 12 Pro", screen: '6.78" LTPO AMOLED 144Hz', processor: "Snapdragon 8 Gen 3", ramStorage: "12–16 GB / 256 GB–1 TB", battery: "5.100 mAh", camera: "50 MP tripla", image: "1001244785.jpg" },
-        { year: "2025", model: "iQOO 13", screen: '6.82" LTPO AMOLED 144Hz', processor: "Snapdragon 8 Elite", ramStorage: "12–16 GB / 256 GB–1 TB", battery: "6.150 mAh", camera: "50 MP tripla", image: "images/iqoo-13.jpg" }
+        { year: "2025", model: "iQOO 13", screen: '6.82" LTPO AMOLED 144Hz', processor: "Snapdragon 8 Elite", ramStorage: "12–16 GB / 256 GB–1 TB", battery: "6.150 mAh", camera: "50 MP tripla", image: "iqoo-13.jpg" }
       ],
       "iQOO Neo": [
         { year: "2020", model: "iQOO Neo 3", screen: '6.57" LCD 144Hz', processor: "Snapdragon 865", ramStorage: "6–12 GB / 128–256 GB", battery: "4.500 mAh", camera: "48 MP tripla", image: "1001244167.jpg" },
@@ -1729,7 +1729,7 @@ const smartphoneData = {
         { year: "2024", model: "iQOO Neo 9 Pro", screen: '6.78" LTPO AMOLED 144Hz', processor: "MediaTek Dimensity 9300", ramStorage: "12–16 GB / 256 GB–1 TB", battery: "5.160 mAh", camera: "50 MP dupla", image: "1001244607.jpg" }
       ],
       "iQOO Z": [
-        { year: "2021", model: "iQOO Z3", screen: '6.58" LCD 120Hz', processor: "Snapdragon 768G", ramStorage: "6–8 GB / 128–256 GB", battery: "4.400 mAh", camera: "64 MP tripla", image: "images/iqoo-z3.jpg" },
+        { year: "2021", model: "iQOO Z3", screen: '6.58" LCD 120Hz', processor: "Snapdragon 768G", ramStorage: "6–8 GB / 128–256 GB", battery: "4.400 mAh", camera: "64 MP tripla", image: "iqoo-z3.jpg" },
         { year: "2022", model: "iQOO Z6", screen: '6.64" LCD 120Hz', processor: "Snapdragon 778G+", ramStorage: "8–12 GB / 128–256 GB", battery: "4.500 mAh", camera: "64 MP tripla", image: "1001244114.jpg" },
         { year: "2023", model: "iQOO Z7 Pro", screen: '6.78" AMOLED 120Hz', processor: "MediaTek Dimensity 7200", ramStorage: "8–12 GB / 128–256 GB", battery: "4.600 mAh", camera: "64 MP dupla", image: "1001244144.jpg" }
       ]
@@ -1744,9 +1744,9 @@ const smartphoneData = {
         { year: "2015", model: "OnePlus 2", screen: '5.5" LCD', processor: "Snapdragon 810", ramStorage: "3–4 GB / 16–64 GB", battery: "3.300 mAh", camera: "13 MP", image: "1001241937.jpg" },
         { year: "2016", model: "OnePlus 3", screen: '5.5" AMOLED', processor: "Snapdragon 820", ramStorage: "6 GB / 64 GB", battery: "3.000 mAh", camera: "16 MP", image: "1001241953.jpg" },
         { year: "2017", model: "OnePlus 5", screen: '5.5" AMOLED', processor: "Snapdragon 835", ramStorage: "6–8 GB / 64–128 GB", battery: "3.300 mAh", camera: "16 MP dupla", image: "1001242009.jpg" },
-        { year: "2018", model: "OnePlus 6", screen: '6.28" AMOLED', processor: "Snapdragon 845", ramStorage: "6–8 GB / 64–256 GB", battery: "3.300 mAh", camera: "16 MP dupla", image: "images/oneplus-6.jpg" },
-        { year: "2019", model: "OnePlus 7 Pro", screen: '6.67" AMOLED 90Hz', processor: "Snapdragon 855", ramStorage: "6–12 GB / 128–256 GB", battery: "4.000 mAh", camera: "48 MP tripla", image: "images/oneplus-7-pro.jpg" },
-        { year: "2020", model: "OnePlus 8 Pro", screen: '6.78" AMOLED 120Hz', processor: "Snapdragon 865", ramStorage: "8–12 GB / 128–256 GB", battery: "4.510 mAh", camera: "48 MP quádrupla", image: "images/oneplus-8-pro.jpg" },
+        { year: "2018", model: "OnePlus 6", screen: '6.28" AMOLED', processor: "Snapdragon 845", ramStorage: "6–8 GB / 64–256 GB", battery: "3.300 mAh", camera: "16 MP dupla", image: "oneplus-6.jpg" },
+        { year: "2019", model: "OnePlus 7 Pro", screen: '6.67" AMOLED 90Hz', processor: "Snapdragon 855", ramStorage: "6–12 GB / 128–256 GB", battery: "4.000 mAh", camera: "48 MP tripla", image: "oneplus-7-pro.jpg" },
+        { year: "2020", model: "OnePlus 8 Pro", screen: '6.78" AMOLED 120Hz', processor: "Snapdragon 865", ramStorage: "8–12 GB / 128–256 GB", battery: "4.510 mAh", camera: "48 MP quádrupla", image: "oneplus-8-pro.jpg" },
         { year: "2021", model: "OnePlus 9 Pro", screen: '6.7" LTPO AMOLED 120Hz', processor: "Snapdragon 888", ramStorage: "8–12 GB / 128–256 GB", battery: "4.500 mAh", camera: "48 MP quádrupla", image: "1001242096.jpg" },
         { year: "2022", model: "OnePlus 10 Pro", screen: '6.7" LTPO AMOLED 120Hz', processor: "Snapdragon 8 Gen 1", ramStorage: "8–12 GB / 128–256 GB", battery: "5.000 mAh", camera: "48 MP tripla", image: "1001242118.jpg" },
         { year: "2023", model: "OnePlus 11", screen: '6.7" LTPO AMOLED 120Hz', processor: "Snapdragon 8 Gen 2", ramStorage: "8–16 GB / 128–512 GB", battery: "5.000 mAh", camera: "50 MP tripla", image: "1001242126.jpg" },
@@ -1755,10 +1755,10 @@ const smartphoneData = {
         { year: "2026", model: "OnePlus 15", screen: '6.82" LTPO AMOLED 165Hz', processor: "Snapdragon 8 Elite Gen 5", ramStorage: "12–16 GB / 256 GB–1 TB", battery: "7.300 mAh", camera: "50 MP tripla", image: "1001242185.jpg" }
       ],
       "OnePlus Nord": [
-        { year: "2020", model: "OnePlus Nord", screen: '6.44" AMOLED 90Hz', processor: "Snapdragon 765G", ramStorage: "6–12 GB / 64–256 GB", battery: "4.115 mAh", camera: "48 MP quádrupla", image: "images/oneplus-nord.jpg" },
-        { year: "2021", model: "OnePlus Nord 2", screen: '6.43" AMOLED 90Hz', processor: "MediaTek Dimensity 1200", ramStorage: "6–12 GB / 128–256 GB", battery: "4.500 mAh", camera: "50 MP tripla", image: "images/oneplus-nord-2.jpg" },
-        { year: "2022", model: "OnePlus Nord 3", screen: '6.74" AMOLED 120Hz', processor: "MediaTek Dimensity 9000", ramStorage: "8–16 GB / 128–256 GB", battery: "5.000 mAh", camera: "50 MP tripla", image: "images/oneplus-nord-preto.jpg" },
-        { year: "2024", model: "OnePlus Nord 4", screen: '6.74" AMOLED 120Hz', processor: "Snapdragon 7+ Gen 3", ramStorage: "8–16 GB / 128–512 GB", battery: "5.500 mAh", camera: "50 MP dupla", image: "images/oneplus-cinza.jpg" }
+        { year: "2020", model: "OnePlus Nord", screen: '6.44" AMOLED 90Hz', processor: "Snapdragon 765G", ramStorage: "6–12 GB / 64–256 GB", battery: "4.115 mAh", camera: "48 MP quádrupla", image: "oneplus-nord.jpg" },
+        { year: "2021", model: "OnePlus Nord 2", screen: '6.43" AMOLED 90Hz', processor: "MediaTek Dimensity 1200", ramStorage: "6–12 GB / 128–256 GB", battery: "4.500 mAh", camera: "50 MP tripla", image: "oneplus-nord-2.jpg" },
+        { year: "2022", model: "OnePlus Nord 3", screen: '6.74" AMOLED 120Hz', processor: "MediaTek Dimensity 9000", ramStorage: "8–16 GB / 128–256 GB", battery: "5.000 mAh", camera: "50 MP tripla", image: "oneplus-nord-preto.jpg" },
+        { year: "2024", model: "OnePlus Nord 4", screen: '6.74" AMOLED 120Hz', processor: "Snapdragon 7+ Gen 3", ramStorage: "8–16 GB / 128–512 GB", battery: "5.500 mAh", camera: "50 MP dupla", image: "oneplus-cinza.jpg" }
       ]
     }
   },
@@ -1810,19 +1810,19 @@ const smartphoneData = {
         { year: "2024", model: "Motorola Edge 50 Ultra", screen: '6.7" OLED 144Hz', processor: "Snapdragon 8s Gen 3", ramStorage: "12 GB / 512 GB", battery: "4.500 mAh", camera: "50 MP tripla", image: "1001236053.jpg" }
       ],
       "moto g": [
-        { year: "2013", model: "Moto G (1ª gen.)", screen: '4.5" LCD', processor: "Snapdragon 400", ramStorage: "1 GB / 8–16 GB", battery: "2.070 mAh", camera: "5 MP", image: "images/motorola-moto-g.jpg" },
-        { year: "2018", model: "Moto G6 Plus", screen: '5.9" IPS LCD', processor: "Snapdragon 630", ramStorage: "4–6 GB / 64–128 GB", battery: "3.200 mAh", camera: "12 MP dupla", image: "images/motorola-moto-g-preto.jpg?v=1" },
+        { year: "2013", model: "Moto G (1ª gen.)", screen: '4.5" LCD', processor: "Snapdragon 400", ramStorage: "1 GB / 8–16 GB", battery: "2.070 mAh", camera: "5 MP", image: "motorola-moto-g.jpg" },
+        { year: "2018", model: "Moto G6 Plus", screen: '5.9" IPS LCD', processor: "Snapdragon 630", ramStorage: "4–6 GB / 64–128 GB", battery: "3.200 mAh", camera: "12 MP dupla", image: "motorola-moto-g-preto.jpg?v=1" },
         { year: "2022", model: "Moto G82", screen: '6.6" AMOLED 120Hz', processor: "Snapdragon 695", ramStorage: "6–8 GB / 128 GB", battery: "5.000 mAh", camera: "50 MP tripla", image: "1001235331.jpg" },
         { year: "2024", model: "Moto G84", screen: '6.5" P-OLED 120Hz', processor: "Snapdragon 695", ramStorage: "8–12 GB / 256 GB", battery: "5.000 mAh", camera: "50 MP dupla", image: "1001235339.jpg" }
       ],
       "moto e": [
-        { year: "2020", model: "Moto E7 Plus", screen: '6.5" LCD', processor: "Snapdragon 460", ramStorage: "4 GB / 64 GB", battery: "5.000 mAh", camera: "48 MP dupla", image: "images/motorola-azul.jpg" },
-        { year: "2023", model: "Moto E13", screen: '6.5" LCD', processor: "Unisoc T606", ramStorage: "2–4 GB / 64–128 GB", battery: "5.000 mAh", camera: "13 MP", image: "images/motorola-moto-e13.jpg" }
+        { year: "2020", model: "Moto E7 Plus", screen: '6.5" LCD', processor: "Snapdragon 460", ramStorage: "4 GB / 64 GB", battery: "5.000 mAh", camera: "48 MP dupla", image: "motorola-azul.jpg" },
+        { year: "2023", model: "Moto E13", screen: '6.5" LCD', processor: "Unisoc T606", ramStorage: "2–4 GB / 64–128 GB", battery: "5.000 mAh", camera: "13 MP", image: "motorola-moto-e13.jpg" }
       ],
       "Motorola Razr": [
-        { year: "2019", model: "Motorola Razr (2019)", screen: '6.2" P-OLED dobrável', processor: "Snapdragon 710", ramStorage: "6 GB / 128 GB", battery: "2.510 mAh", camera: "16 MP", image: "images/motorola-razr.jpg" },
-        { year: "2022", model: "Motorola Razr 2022", screen: '6.7" P-OLED dobrável', processor: "Snapdragon 8+ Gen 1", ramStorage: "8–12 GB / 128–512 GB", battery: "3.500 mAh", camera: "50 MP dupla", image: "images/motorola-razr-novo.jpg" },
-        { year: "2025", model: "Motorola Razr 60 Ultra", screen: '6.9" LTPO AMOLED dobrável', processor: "Snapdragon 8 Elite", ramStorage: "12–16 GB / 256–512 GB", battery: "4.000 mAh", camera: "50 MP dupla", image: "images/Motorola_Razr_60_Ultra.jpg" }
+        { year: "2019", model: "Motorola Razr (2019)", screen: '6.2" P-OLED dobrável', processor: "Snapdragon 710", ramStorage: "6 GB / 128 GB", battery: "2.510 mAh", camera: "16 MP", image: "motorola-razr.jpg" },
+        { year: "2022", model: "Motorola Razr 2022", screen: '6.7" P-OLED dobrável', processor: "Snapdragon 8+ Gen 1", ramStorage: "8–12 GB / 128–512 GB", battery: "3.500 mAh", camera: "50 MP dupla", image: "motorola-razr-novo.jpg" },
+        { year: "2025", model: "Motorola Razr 60 Ultra", screen: '6.9" LTPO AMOLED dobrável', processor: "Snapdragon 8 Elite", ramStorage: "12–16 GB / 256–512 GB", battery: "4.000 mAh", camera: "50 MP dupla", image: "motorola_Razr_60_Ultra.jpg" }
       ]
     }
   },
@@ -1835,13 +1835,13 @@ const smartphoneData = {
         { year: "2017", model: "Pixel 2", screen: '5.0" AMOLED', processor: "Snapdragon 835", ramStorage: "4 GB / 64–128 GB", battery: "2.700 mAh", camera: "12.2 MP", image: "1001236343.jpg" },
         { year: "2018", model: "Pixel 3", screen: '5.5" OLED', processor: "Snapdragon 845", ramStorage: "4 GB / 64–128 GB", battery: "2.915 mAh", camera: "12.2 MP", image: "1001236336.jpg" },
         { year: "2019", model: "Pixel 4", screen: '5.7" OLED 90Hz', processor: "Snapdragon 855", ramStorage: "6 GB / 64–128 GB", battery: "2.800 mAh", camera: "12.2 MP dupla", image: "1001237262.jpg" },
-        { year: "2020", model: "Pixel 5", screen: '6.0" OLED 90Hz', processor: "Snapdragon 765G", ramStorage: "8 GB / 128 GB", battery: "4.080 mAh", camera: "12.2 MP dupla", image: "images/google-pixel-5.jpg" },
-        { year: "2021", model: "Pixel 6", screen: '6.4" OLED 90Hz', processor: "Google Tensor", ramStorage: "8 GB / 128–256 GB", battery: "4.614 mAh", camera: "50 MP dupla", image: "images/google-pixel-6.jpg" },
-        { year: "2022", model: "Pixel 7", screen: '6.3" OLED 90Hz', processor: "Google Tensor G2", ramStorage: "8 GB / 128–256 GB", battery: "4.355 mAh", camera: "50 MP dupla", image: "images/google-pixel-7.jpg" },
+        { year: "2020", model: "Pixel 5", screen: '6.0" OLED 90Hz', processor: "Snapdragon 765G", ramStorage: "8 GB / 128 GB", battery: "4.080 mAh", camera: "12.2 MP dupla", image: "google-pixel-5.jpg" },
+        { year: "2021", model: "Pixel 6", screen: '6.4" OLED 90Hz', processor: "Google Tensor", ramStorage: "8 GB / 128–256 GB", battery: "4.614 mAh", camera: "50 MP dupla", image: "google-pixel-6.jpg" },
+        { year: "2022", model: "Pixel 7", screen: '6.3" OLED 90Hz', processor: "Google Tensor G2", ramStorage: "8 GB / 128–256 GB", battery: "4.355 mAh", camera: "50 MP dupla", image: "google-pixel-7.jpg" },
         { year: "2023", model: "Pixel 8", screen: '6.2" OLED 120Hz', processor: "Google Tensor G3", ramStorage: "8 GB / 128–256 GB", battery: "4.575 mAh", camera: "50 MP dupla", image: "1001237608.jpg" },
         { year: "2024", model: "Pixel 9", screen: '6.3" OLED 120Hz', processor: "Google Tensor G4", ramStorage: "12 GB / 128–256 GB", battery: "4.700 mAh", camera: "50 MP dupla", image: "1001237620.jpg" },
         { year: "2025", model: "Pixel 10", screen: '6.3" OLED 120Hz', processor: "Google Tensor G5", ramStorage: "12 GB / 128–256 GB", battery: "4.800 mAh", camera: "50 MP tripla", image: "1001239285.jpg" },
-        { year: "2026", model: "Pixel 10a", screen: '6.1" OLED 120Hz', processor: "Google Tensor G5", ramStorage: "8 GB / 128–256 GB", battery: "4.500 mAh", camera: "48 MP dupla", image: "images/google-pixel-10a.jpg" }
+        { year: "2026", model: "Pixel 10a", screen: '6.1" OLED 120Hz', processor: "Google Tensor G5", ramStorage: "8 GB / 128–256 GB", battery: "4.500 mAh", camera: "48 MP dupla", image: "google-pixel-10a.jpg" }
       ],
       "Pixel Pro": [
         { year: "2021", model: "Pixel 6 Pro", screen: '6.7" LTPO OLED 120Hz', processor: "Google Tensor", ramStorage: "12 GB / 128–512 GB", battery: "5.003 mAh", camera: "50 MP tripla", image: "1001236090.jpg" },
@@ -1873,8 +1873,8 @@ const smartphoneData = {
         { year: "2022", model: "Xperia 1 IV", screen: '6.5" OLED 4K 120Hz', processor: "Snapdragon 8 Gen 1", ramStorage: "12 GB / 256–512 GB", battery: "5.000 mAh", camera: "12 MP tripla", image: "1001234509.jpg" },
         { year: "2023", model: "Xperia 1 V", screen: '6.5" OLED 4K 120Hz', processor: "Snapdragon 8 Gen 2", ramStorage: "12 GB / 256–512 GB", battery: "5.000 mAh", camera: "52 MP tripla", image: "1001234524.jpg" },
         { year: "2024", model: "Xperia 1 VI", screen: '6.5" OLED 4K 120Hz', processor: "Snapdragon 8 Gen 3", ramStorage: "12–16 GB / 256–512 GB", battery: "5.000 mAh", camera: "52 MP tripla", image: "1001234605.jpg" },
-        { year: "2025", model: "Xperia 1 VII", screen: '6.5" OLED 4K 120Hz', processor: "Snapdragon 8 Elite", ramStorage: "12–16 GB / 256–512 GB", battery: "5.200 mAh", camera: "52 MP tripla", image: "images/sony-xperia-1-vii.jpg" },
-        { year: "2026", model: "Xperia 1 VIII (prev.)", screen: '6.5" OLED 4K 120Hz', processor: "Snapdragon 8 Elite Gen 5", ramStorage: "12–16 GB / 256 GB–1 TB", battery: "5.200 mAh", camera: "200 MP tripla", image: "images/sony-xperia-preto.jpg" }
+        { year: "2025", model: "Xperia 1 VII", screen: '6.5" OLED 4K 120Hz', processor: "Snapdragon 8 Elite", ramStorage: "12–16 GB / 256–512 GB", battery: "5.200 mAh", camera: "52 MP tripla", image: "sony-xperia-1-vii.jpg" },
+        { year: "2026", model: "Xperia 1 VIII (prev.)", screen: '6.5" OLED 4K 120Hz', processor: "Snapdragon 8 Elite Gen 5", ramStorage: "12–16 GB / 256 GB–1 TB", battery: "5.200 mAh", camera: "200 MP tripla", image: "sony-xperia-preto.jpg" }
       ],
       "Xperia 5": [
         { year: "2019", model: "Xperia 5", screen: '6.1" OLED', processor: "Snapdragon 855", ramStorage: "6 GB / 64–128 GB", battery: "3.140 mAh", camera: "12 MP tripla", image: "1001233805.jpg" },
@@ -1893,18 +1893,18 @@ const smartphoneData = {
     history: "Fundada em 1989 em Taiwan, a ASUS construiu uma reputação global de excelência em hardware para PC e placas-mãe. No mercado de smartphones, a marca destacou-se pela inovação com a potente e aclamada linha ROG Phone focada em gaming de alto desempenho, além de oferecer a série Zenfone, conhecida pelo seu formato compacto e especificações topo de gama.",
     lines: {
       "Zenfone": [
-        { year: "2014", model: "Zenfone 5", screen: '5.0" IPS LCD', processor: "Intel Atom Z2560", ramStorage: "1–2 GB / 8–16 GB", battery: "2.110 mAh", camera: "8 MP", image: "images/asus-zenfone.jpg" },
-        { year: "2015", model: "Zenfone 2", screen: '5.5" IPS LCD', processor: "Intel Atom Z3580", ramStorage: "2–4 GB / 16–64 GB", battery: "3.000 mAh", camera: "13 MP", image: "images/asus-zenfone-2.jpg" },
-        { year: "2016", model: "Zenfone 3", screen: '5.5" IPS LCD', processor: "Snapdragon 625", ramStorage: "3–4 GB / 32–64 GB", battery: "3.000 mAh", camera: "16 MP", image: "images/asus-zenfone-3.jpg" },
-        { year: "2021", model: "Zenfone 8", screen: '5.9" AMOLED 120Hz', processor: "Snapdragon 888", ramStorage: "8–16 GB / 128–256 GB", battery: "4.000 mAh", camera: "64 MP dupla", image: "images/asus-zenfone-8.jpg" },
-        { year: "2023", model: "Zenfone 10", screen: '5.9" AMOLED 144Hz', processor: "Snapdragon 8 Gen 2", ramStorage: "8–16 GB / 128–512 GB", battery: "4.300 mAh", camera: "50 MP dupla", image: "images/asus-zenfone-10.jpg" },
-        { year: "2024", model: "Zenfone 11 Ultra", screen: '6.78" AMOLED 144Hz', processor: "Snapdragon 8 Gen 3", ramStorage: "12–16 GB / 256–512 GB", battery: "5.500 mAh", camera: "50 MP tripla", image: "images/asus-zenfone.jpg" }
+        { year: "2014", model: "Zenfone 5", screen: '5.0" IPS LCD', processor: "Intel Atom Z2560", ramStorage: "1–2 GB / 8–16 GB", battery: "2.110 mAh", camera: "8 MP", image: "asus-zenfone.jpg" },
+        { year: "2015", model: "Zenfone 2", screen: '5.5" IPS LCD', processor: "Intel Atom Z3580", ramStorage: "2–4 GB / 16–64 GB", battery: "3.000 mAh", camera: "13 MP", image: "asus-zenfone-2.jpg" },
+        { year: "2016", model: "Zenfone 3", screen: '5.5" IPS LCD', processor: "Snapdragon 625", ramStorage: "3–4 GB / 32–64 GB", battery: "3.000 mAh", camera: "16 MP", image: "asus-zenfone-3.jpg" },
+        { year: "2021", model: "Zenfone 8", screen: '5.9" AMOLED 120Hz', processor: "Snapdragon 888", ramStorage: "8–16 GB / 128–256 GB", battery: "4.000 mAh", camera: "64 MP dupla", image: "asus-zenfone-8.jpg" },
+        { year: "2023", model: "Zenfone 10", screen: '5.9" AMOLED 144Hz', processor: "Snapdragon 8 Gen 2", ramStorage: "8–16 GB / 128–512 GB", battery: "4.300 mAh", camera: "50 MP dupla", image: "asus-zenfone-10.jpg" },
+        { year: "2024", model: "Zenfone 11 Ultra", screen: '6.78" AMOLED 144Hz', processor: "Snapdragon 8 Gen 3", ramStorage: "12–16 GB / 256–512 GB", battery: "5.500 mAh", camera: "50 MP tripla", image: "asus-zenfone.jpg" }
       ],
             "ROG Phone": [
-        { year: "2018", model: "ROG Phone", screen: '6.0" AMOLED 90Hz', processor: "Snapdragon 845", ramStorage: "8 GB / 128–512 GB", battery: "4.000 mAh", camera: "12 MP dupla", image: "images/asus-rog-phone.jpg" },
-        { year: "2019", model: "ROG Phone II", screen: '6.59" AMOLED 120Hz', processor: "Snapdragon 855+", ramStorage: "8–12 GB / 128–512 GB", battery: "6.000 mAh", camera: "48 MP dupla", image: "images/ASUS_ROG_Phone.jpg" },
-        { year: "2020", model: "ROG Phone 3", screen: '6.59" AMOLED 144Hz', processor: "Snapdragon 865+", ramStorage: "8–16 GB / 128–512 GB", battery: "6.000 mAh", camera: "64 MP tripla", image: "images/ASUS_ROG_Phone_2.jpg" },
-        { year: "2021", model: "ROG Phone 5", screen: '6.78" AMOLED 144Hz', processor: "Snapdragon 888", ramStorage: "8–18 GB / 128–512 GB", battery: "6.000 mAh", camera: "64 MP tripla", image: "images/ASUS_ROG_Phone_3.jpg" },
+        { year: "2018", model: "ROG Phone", screen: '6.0" AMOLED 90Hz', processor: "Snapdragon 845", ramStorage: "8 GB / 128–512 GB", battery: "4.000 mAh", camera: "12 MP dupla", image: "asus-rog-phone.jpg" },
+        { year: "2019", model: "ROG Phone II", screen: '6.59" AMOLED 120Hz', processor: "Snapdragon 855+", ramStorage: "8–12 GB / 128–512 GB", battery: "6.000 mAh", camera: "48 MP dupla", image: "ASUS_ROG_Phone.jpg" },
+        { year: "2020", model: "ROG Phone 3", screen: '6.59" AMOLED 144Hz', processor: "Snapdragon 865+", ramStorage: "8–16 GB / 128–512 GB", battery: "6.000 mAh", camera: "64 MP tripla", image: "ASUS_ROG_Phone_2.jpg" },
+        { year: "2021", model: "ROG Phone 5", screen: '6.78" AMOLED 144Hz', processor: "Snapdragon 888", ramStorage: "8–18 GB / 128–512 GB", battery: "6.000 mAh", camera: "64 MP tripla", image: "ASUS_ROG_Phone_3.jpg" },
         { year: "2022", model: "ROG Phone 6 Pro", screen: '6.78" AMOLED 165Hz', processor: "Snapdragon 8+ Gen 1", ramStorage: "16–18 GB / 512 GB", battery: "6.000 mAh", camera: "50 MP tripla", image: "1001233394.jpg" },
         { year: "2023", model: "ROG Phone 7 Ultimate", screen: '6.78" AMOLED 165Hz', processor: "Snapdragon 8 Gen 2", ramStorage: "16 GB / 512 GB", battery: "6.000 mAh", camera: "50 MP tripla", image: "1001233663.jpg" },
         { year: "2024", model: "ROG Phone 8 Pro", screen: '6.78" AMOLED 165Hz', processor: "Snapdragon 8 Gen 3", ramStorage: "16–24 GB / 512 GB–1 TB", battery: "5.500 mAh", camera: "50 MP tripla", image: "1001233702.jpg" },
@@ -1917,13 +1917,13 @@ const smartphoneData = {
     history: "Fundada em 2020 em Londres por Carl Pei (co-fundador da OnePlus), a Nothing nasceu com o objetivo de devolver o entusiasmo à tecnologia de consumo. A marca destacou-se rapidamente pelo seu design arrojado e transparente, a inovadora interface de luzes Glyph e um sistema operativo (Nothing OS) focado na fluidez e simplicidade.",
     lines: {
       "Nothing Phone": [
-        { year: "2022", model: "Nothing Phone (1)", screen: '6.55" OLED 120Hz', processor: "Snapdragon 778G+", ramStorage: "8–12 GB / 128–256 GB", battery: "4.500 mAh", camera: "50 MP dupla", image: "imagens/nothing-phone-white.jpg" },
-        { year: "2023", model: "Nothing Phone (2)", screen: '6.7" LTPO OLED 120Hz', processor: "Snapdragon 8+ Gen 1", ramStorage: "8–12 GB / 128–512 GB", battery: "4.700 mAh", camera: "50 MP dupla", image: "imagens/nothing-phone-2.jpg" },
-        { year: "2024", model: "Nothing Phone (2a)", screen: '6.7" AMOLED 120Hz', processor: "MediaTek Dimensity 7200 Pro", ramStorage: "8–12 GB / 128–256 GB", battery: "5.000 mAh", camera: "50 MP dupla", image: "imagens/nothing-phone-dark.jpg" },
-        { year: "2024", model: "Nothing Phone (2a) Plus", screen: '6.7" AMOLED 120Hz', processor: "MediaTek Dimensity 7350 Pro", ramStorage: "8–12 GB / 256 GB", battery: "5.000 mAh", camera: "50 MP dupla", image: "imagens/nothing-phone.jpg" },
-        { year: "2025", model: "Nothing Phone (3)", screen: '6.67" AMOLED 120Hz', processor: "Snapdragon 8s Gen 4", ramStorage: "12–16 GB / 256–512 GB", battery: "5.000 mAh", camera: "50 MP tripla", image: "images/nothing-phone-branco.jpg" },
-        { year: "2025", model: "Nothing Phone (3a)", screen: '6.77" AMOLED 120Hz', processor: "Snapdragon 7s Gen 3", ramStorage: "8–12 GB / 128–256 GB", battery: "5.000 mAh", camera: "50 MP tripla", image: "images/nothing-phone.jpg" },
-        { year: "2026", model: "Nothing Phone (4a) Pro", screen: '6.83" AMOLED 120Hz', processor: "Snapdragon 7s Gen 4", ramStorage: "12 GB / 256 GB", battery: "5.080 mAh", camera: "50 MP dupla", image: "images/telemovel-conceito.jpg" }
+        { year: "2022", model: "Nothing Phone (1)", screen: '6.55" OLED 120Hz', processor: "Snapdragon 778G+", ramStorage: "8–12 GB / 128–256 GB", battery: "4.500 mAh", camera: "50 MP dupla", image: "nothing-phone-white.jpg" },
+        { year: "2023", model: "Nothing Phone (2)", screen: '6.7" LTPO OLED 120Hz', processor: "Snapdragon 8+ Gen 1", ramStorage: "8–12 GB / 128–512 GB", battery: "4.700 mAh", camera: "50 MP dupla", image: "nothing-phone-2.jpg" },
+        { year: "2024", model: "Nothing Phone (2a)", screen: '6.7" AMOLED 120Hz', processor: "MediaTek Dimensity 7200 Pro", ramStorage: "8–12 GB / 128–256 GB", battery: "5.000 mAh", camera: "50 MP dupla", image: "nothing-phone-dark.jpg" },
+        { year: "2024", model: "Nothing Phone (2a) Plus", screen: '6.7" AMOLED 120Hz', processor: "MediaTek Dimensity 7350 Pro", ramStorage: "8–12 GB / 256 GB", battery: "5.000 mAh", camera: "50 MP dupla", image: "nothing-phone.jpg" },
+        { year: "2025", model: "Nothing Phone (3)", screen: '6.67" AMOLED 120Hz', processor: "Snapdragon 8s Gen 4", ramStorage: "12–16 GB / 256–512 GB", battery: "5.000 mAh", camera: "50 MP tripla", image: "nothing-phone-branco.jpg" },
+        { year: "2025", model: "Nothing Phone (3a)", screen: '6.77" AMOLED 120Hz', processor: "Snapdragon 7s Gen 3", ramStorage: "8–12 GB / 128–256 GB", battery: "5.000 mAh", camera: "50 MP tripla", image: "nothing-phone.jpg" },
+        { year: "2026", model: "Nothing Phone (4a) Pro", screen: '6.83" AMOLED 120Hz', processor: "Snapdragon 7s Gen 4", ramStorage: "12 GB / 256 GB", battery: "5.080 mAh", camera: "50 MP dupla", image: "telemovel-conceito.jpg" }
       ]
     }
   },
@@ -1932,17 +1932,17 @@ const smartphoneData = {
     history: "Fundada em 1865 na Finlândia como uma fábrica de papel, a Nokia evoluiu para se tornar a gigante absoluta das telecomunicações e a líder incontestada do mercado móvel durante mais de uma década. Famosa por telemóveis lendários e indestrutíveis como o 3310, a marca foi reinventada no mercado moderno de smartphones sob a alçada da HMD Global, focando-se em durabilidade, sustentabilidade e Android puro.",
     lines: {
       "Nokia Lumia": [
-        { year: "2011", model: "Nokia Lumia 800", screen: '3.7" AMOLED', processor: "Snapdragon S2", ramStorage: "512 MB / 16 GB", battery: "1.450 mAh", camera: "8 MP", image: "images/nokia-smartphone-3.jpg" },
+        { year: "2011", model: "Nokia Lumia 800", screen: '3.7" AMOLED', processor: "Snapdragon S2", ramStorage: "512 MB / 16 GB", battery: "1.450 mAh", camera: "8 MP", image: "nokia-smartphone-3.jpg" },
         { year: "2012", model: "Nokia Lumia 920", screen: '4.5" IPS LCD', processor: "Snapdragon S4", ramStorage: "1 GB / 32 GB", battery: "2.000 mAh", camera: "8.7 MP", image: "1001232662.jpg" },
         { year: "2013", model: "Nokia Lumia 1020", screen: '4.5" AMOLED', processor: "Snapdragon S4", ramStorage: "2 GB / 32 GB", battery: "2.000 mAh", camera: "41 MP", image: "1001232680.jpg" },
         { year: "2014", model: "Nokia Lumia 930", screen: '5.0" AMOLED', processor: "Snapdragon 800", ramStorage: "2 GB / 32 GB", battery: "2.420 mAh", camera: "20 MP", image: "1001232690.jpg" },
         { year: "2015", model: "Nokia Lumia 950", screen: '5.2" AMOLED', processor: "Snapdragon 808", ramStorage: "3 GB / 32 GB", battery: "3.000 mAh", camera: "20 MP", image: "1001232699.jpg" }
       ],
       "Nokia Number Series": [
-        { year: "2016", model: "Nokia 6 (HMD)", screen: '5.5" IPS LCD', processor: "Snapdragon 430", ramStorage: "3–4 GB / 32–64 GB", battery: "3.000 mAh", camera: "16 MP", image: "images/nokia-smartphone.jpg" },
-        { year: "2017", model: "Nokia 8", screen: '5.3" IPS LCD', processor: "Snapdragon 835", ramStorage: "4–6 GB / 64–128 GB", battery: "3.090 mAh", camera: "13 MP dupla", image: "images/nokia-smartphone-2.jpg" },
-        { year: "2018", model: "Nokia 7 Plus", screen: '6.0" IPS LCD', processor: "Snapdragon 660", ramStorage: "4–6 GB / 64 GB", battery: "3.800 mAh", camera: "12 MP dupla", image: "images/nokia-smartphone.jpg" },
-        { year: "2019", model: "Nokia 9 PureView", screen: '5.99" P-OLED', processor: "Snapdragon 845", ramStorage: "6 GB / 128 GB", battery: "3.320 mAh", camera: "5x 12 MP", image: "images/nokia-smartphone-2.jpg" }
+        { year: "2016", model: "Nokia 6 (HMD)", screen: '5.5" IPS LCD', processor: "Snapdragon 430", ramStorage: "3–4 GB / 32–64 GB", battery: "3.000 mAh", camera: "16 MP", image: "nokia-smartphone.jpg" },
+        { year: "2017", model: "Nokia 8", screen: '5.3" IPS LCD', processor: "Snapdragon 835", ramStorage: "4–6 GB / 64–128 GB", battery: "3.090 mAh", camera: "13 MP dupla", image: "nokia-smartphone-2.jpg" },
+        { year: "2018", model: "Nokia 7 Plus", screen: '6.0" IPS LCD', processor: "Snapdragon 660", ramStorage: "4–6 GB / 64 GB", battery: "3.800 mAh", camera: "12 MP dupla", image: "nokia-smartphone.jpg" },
+        { year: "2019", model: "Nokia 9 PureView", screen: '5.99" P-OLED', processor: "Snapdragon 845", ramStorage: "6 GB / 128 GB", battery: "3.320 mAh", camera: "5x 12 MP", image: "nokia-smartphone-2.jpg" }
       ],
       "Nokia X Series": [
         { year: "2021", model: "Nokia X20", screen: '6.67" IPS LCD', processor: "Snapdragon 480", ramStorage: "6–8 GB / 128 GB", battery: "4.470 mAh", camera: "64 MP quádrupla", image: "1001231561.jpg" },
@@ -1955,13 +1955,13 @@ const smartphoneData = {
     history: "Fundada em 2016 na Finlândia, a HMD (Human Mobile Devices) iniciou o seu percurso como a casa exclusiva dos telemóveis e smartphones com a marca Nokia. Recentemente, a empresa expandiu a sua estratégia para lançar dispositivos com a sua própria marca independente, focando-se em sustentabilidade, reparabilidade em casa (em parceria com a iFixit) e desintoxicação digital.",
     lines: {
       "HMD Skyline": [
-        { year: "2023", model: "HMD Skyline", screen: '6.55" P-OLED 144Hz', processor: "Snapdragon 7s Gen 2", ramStorage: "8–12 GB / 128–256 GB", battery: "4.600 mAh", camera: "108 MP tripla", image: "images/hmd-smartphone.jpg" }
+        { year: "2023", model: "HMD Skyline", screen: '6.55" P-OLED 144Hz', processor: "Snapdragon 7s Gen 2", ramStorage: "8–12 GB / 128–256 GB", battery: "4.600 mAh", camera: "108 MP tripla", image: "hmd-smartphone.jpg" }
       ],
       "HMD Crest": [
-        { year: "2024", model: "HMD Crest Max", screen: '6.67" AMOLED 120Hz', processor: "Unisoc T760", ramStorage: "6–8 GB / 128–256 GB", battery: "5.000 mAh", camera: "64 MP tripla", image: "images/hmd-smartphone.jpg" }
+        { year: "2024", model: "HMD Crest Max", screen: '6.67" AMOLED 120Hz', processor: "Unisoc T760", ramStorage: "6–8 GB / 128–256 GB", battery: "5.000 mAh", camera: "64 MP tripla", image: "hmd-smartphone.jpg" }
       ],
       "HMD Vibe": [
-        { year: "2025", model: "HMD Vibe 2 5G", screen: '6.52" IPS LCD 90Hz', processor: "Unisoc T765", ramStorage: "4 GB / 128 GB", battery: "5.000 mAh", camera: "50 MP dupla", image: "images/hmd-smartphone-2.jpg" }
+        { year: "2025", model: "HMD Vibe 2 5G", screen: '6.52" IPS LCD 90Hz', processor: "Unisoc T765", ramStorage: "4 GB / 128 GB", battery: "5.000 mAh", camera: "50 MP dupla", image: "hmd-smartphone-2.jpg" }
       ]
     }
   },
@@ -1970,11 +1970,11 @@ const smartphoneData = {
     history: "Fundada em 2006 e pertencente ao grupo Transsion Holdings, a TECNO emergiu como uma força dominante nos mercados emergentes, como África e o Sul da Ásia. A marca ganhou notoriedade global ao focar-se no desenvolvimento de tecnologias fotográficas adaptadas a diferentes tons de pele, expansão da série Camon e no lançamento de dobráveis e conceitos inovadores a preços muito acessíveis.",
     lines: {
       "TECNO Phantom": [
-        { year: "2013", model: "TECNO Phantom A", screen: '5.0" LCD', processor: "MediaTek MT6589", ramStorage: "1 GB / 4 GB", battery: "2.100 mAh", camera: "8 MP", image: "images/tecno-branco.jpg" }
+        { year: "2013", model: "TECNO Phantom A", screen: '5.0" LCD', processor: "MediaTek MT6589", ramStorage: "1 GB / 4 GB", battery: "2.100 mAh", camera: "8 MP", image: "tecno-branco.jpg" }
       ],
       "TECNO Camon": [
-        { year: "2015", model: "TECNO Camon C8", screen: '5.5" LCD', processor: "MediaTek MT6753", ramStorage: "2 GB / 16 GB", battery: "3.000 mAh", camera: "13 MP", image: "images/tecno-camon.jpg" },
-        { year: "2017", model: "TECNO Camon CX", screen: '5.5" LCD', processor: "MediaTek Helio P10", ramStorage: "3 GB / 32 GB", battery: "3.200 mAh", camera: "16 MP", image: "images/tecno-cinza.jpg" },
+        { year: "2015", model: "TECNO Camon C8", screen: '5.5" LCD', processor: "MediaTek MT6753", ramStorage: "2 GB / 16 GB", battery: "3.000 mAh", camera: "13 MP", image: "tecno-camon.jpg" },
+        { year: "2017", model: "TECNO Camon CX", screen: '5.5" LCD', processor: "MediaTek Helio P10", ramStorage: "3 GB / 32 GB", battery: "3.200 mAh", camera: "16 MP", image: "tecno-cinza.jpg" },
         { year: "2018", model: "TECNO Camon 11", screen: '6.2" LCD', processor: "MediaTek Helio P22", ramStorage: "4–6 GB / 64 GB", battery: "3.750 mAh", camera: "13 MP dupla", image: "images/tecno-camon-vermelho.jpg" },
         { year: "2019", model: "TECNO Camon 12 Pro", screen: '6.4" AMOLED', processor: "MediaTek Helio P22", ramStorage: "6 GB / 64 GB", battery: "3.500 mAh", camera: "16 MP tripla", image: "images/tecno-camon-roxo.jpg" },
         { year: "2020", model: "TECNO Camon 16 Premier", screen: '6.9" LCD 90Hz', processor: "MediaTek Helio G90T", ramStorage: "8 GB / 128 GB", battery: "4.500 mAh", camera: "64 MP quádrupla", image: "images/tecno-camon-prata.jpg" },
