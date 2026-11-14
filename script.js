@@ -1410,7 +1410,7 @@ const smartphoneData = {
           zoom: "Óptico 4x e 8x, digital até 40x",
           dimensions: "163.4 x 78.0 x 8.75 mm, 249 g",
           resistance: "IP68 (até 6m, 30 min)",
-          image: "images/iphone-vermelho.jpg"
+          image: "iphone-vermelho.jpg"
         }
       ],
       "iPhone SE": [
