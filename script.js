@@ -1975,15 +1975,15 @@ const smartphoneData = {
       "TECNO Camon": [
         { year: "2015", model: "TECNO Camon C8", screen: '5.5" LCD', processor: "MediaTek MT6753", ramStorage: "2 GB / 16 GB", battery: "3.000 mAh", camera: "13 MP", image: "tecno-camon.jpg" },
         { year: "2017", model: "TECNO Camon CX", screen: '5.5" LCD', processor: "MediaTek Helio P10", ramStorage: "3 GB / 32 GB", battery: "3.200 mAh", camera: "16 MP", image: "tecno-cinza.jpg" },
-        { year: "2018", model: "TECNO Camon 11", screen: '6.2" LCD', processor: "MediaTek Helio P22", ramStorage: "4–6 GB / 64 GB", battery: "3.750 mAh", camera: "13 MP dupla", image: "images/tecno-camon-vermelho.jpg" },
-        { year: "2019", model: "TECNO Camon 12 Pro", screen: '6.4" AMOLED', processor: "MediaTek Helio P22", ramStorage: "6 GB / 64 GB", battery: "3.500 mAh", camera: "16 MP tripla", image: "images/tecno-camon-roxo.jpg" },
-        { year: "2020", model: "TECNO Camon 16 Premier", screen: '6.9" LCD 90Hz', processor: "MediaTek Helio G90T", ramStorage: "8 GB / 128 GB", battery: "4.500 mAh", camera: "64 MP quádrupla", image: "images/tecno-camon-prata.jpg" },
-        { year: "2021", model: "TECNO Camon 17 Pro", screen: '6.8" LCD 90Hz', processor: "MediaTek Helio G95", ramStorage: "8 GB / 128–256 GB", battery: "5.000 mAh", camera: "64 MP quádrupla", image: "images/tecno-camon.jpg" },
+        { year: "2018", model: "TECNO Camon 11", screen: '6.2" LCD', processor: "MediaTek Helio P22", ramStorage: "4–6 GB / 64 GB", battery: "3.750 mAh", camera: "13 MP dupla", image: "tecno-camon-vermelho.jpg" },
+        { year: "2019", model: "TECNO Camon 12 Pro", screen: '6.4" AMOLED', processor: "MediaTek Helio P22", ramStorage: "6 GB / 64 GB", battery: "3.500 mAh", camera: "16 MP tripla", image: "tecno-camon-roxo.jpg" },
+        { year: "2020", model: "TECNO Camon 16 Premier", screen: '6.9" LCD 90Hz', processor: "MediaTek Helio G90T", ramStorage: "8 GB / 128 GB", battery: "4.500 mAh", camera: "64 MP quádrupla", image: "tecno-camon-prata.jpg" },
+        { year: "2021", model: "TECNO Camon 17 Pro", screen: '6.8" LCD 90Hz', processor: "MediaTek Helio G95", ramStorage: "8 GB / 128–256 GB", battery: "5.000 mAh", camera: "64 MP quádrupla", image: "tecno-camon.jpg" },
         { year: "2022", model: "TECNO Camon 19 Pro", screen: '6.8" LCD 120Hz', processor: "MediaTek Helio G96", ramStorage: "8 GB / 128–256 GB", battery: "5.000 mAh", camera: "64 MP tripla" },
-        { year: "2023", model: "TECNO Camon 20 Pro", screen: '6.67" AMOLED 120Hz', processor: "MediaTek Dimensity 8050", ramStorage: "8–12 GB / 256 GB", battery: "5.000 mAh", camera: "64 MP tripla", image: "images/tecno-camon-20.jpg" },
-        { year: "2024", model: "TECNO Camon 30 Pro", screen: '6.78" AMOLED 120Hz', processor: "MediaTek Dimensity 8200", ramStorage: "8–12 GB / 256–512 GB", battery: "5.000 mAh", camera: "50 MP tripla", image: "images/tecno-camon-premium.jpg" },
-        { year: "2025", model: "TECNO Camon 40 Pro", screen: '6.78" AMOLED 120Hz', processor: "MediaTek Dimensity 8300", ramStorage: "8–12 GB / 256–512 GB", battery: "5.200 mAh", camera: "50 MP tripla", image: "images/tecno-camon-blue.jpg" },
-        { year: "2026", model: "TECNO Camon 50 Pro", screen: '6.78" AMOLED 120Hz', processor: "MediaTek Dimensity 8400", ramStorage: "8–12 GB / 256 GB", battery: "6.500 mAh", camera: "50 MP tripla", image: "images/tecno-camon.jpg" }
+        { year: "2023", model: "TECNO Camon 20 Pro", screen: '6.67" AMOLED 120Hz', processor: "MediaTek Dimensity 8050", ramStorage: "8–12 GB / 256 GB", battery: "5.000 mAh", camera: "64 MP tripla", image: "tecno-camon-20.jpg" },
+        { year: "2024", model: "TECNO Camon 30 Pro", screen: '6.78" AMOLED 120Hz', processor: "MediaTek Dimensity 8200", ramStorage: "8–12 GB / 256–512 GB", battery: "5.000 mAh", camera: "50 MP tripla", image: "tecno-camon-premium.jpg" },
+        { year: "2025", model: "TECNO Camon 40 Pro", screen: '6.78" AMOLED 120Hz', processor: "MediaTek Dimensity 8300", ramStorage: "8–12 GB / 256–512 GB", battery: "5.200 mAh", camera: "50 MP tripla", image: "tecno-camon-blue.jpg" },
+        { year: "2026", model: "TECNO Camon 50 Pro", screen: '6.78" AMOLED 120Hz', processor: "MediaTek Dimensity 8400", ramStorage: "8–12 GB / 256 GB", battery: "6.500 mAh", camera: "50 MP tripla", image: "tecno-camon.jpg" }
       ]
     }
   },
@@ -1992,23 +1992,23 @@ const smartphoneData = {
     history: "Fundada em 2013 e pertencente ao grupo Transsion Holdings, a Infinix focou-se no público jovem de mercados emergentes ao oferecer smartphones com design arrojado, grandes ecrãs e elevado desempenho para gaming e multimédia. Destaca-se por democratizar especificações avançadas e carregamento ultrarrápido a preços bastante competitivos.",
     lines: {
       "Infinix Zero": [
-        { year: "2013", model: "Infinix Zero", screen: '5.0" LCD', processor: "MediaTek MT6582", ramStorage: "1 GB / 8 GB", battery: "2.000 mAh", camera: "8 MP", image: "images/infinix-note-30-5g.jpg" },
+        { year: "2013", model: "Infinix Zero", screen: '5.0" LCD', processor: "MediaTek MT6582", ramStorage: "1 GB / 8 GB", battery: "2.000 mAh", camera: "8 MP", image: "infinix-note-30-5g.jpg" },
         { year: "2017", model: "Infinix Zero 5", screen: '5.98" LCD', processor: "MediaTek Helio P25", ramStorage: "6 GB / 64 GB", battery: "4.350 mAh", camera: "12 MP dupla", image: "1001228377.jpg" },
         { year: "2020", model: "Infinix Zero 8", screen: '6.85" LCD 90Hz', processor: "MediaTek Helio G90T", ramStorage: "8 GB / 128 GB", battery: "4.500 mAh", camera: "64 MP quádrupla", image: "1001228642.jpg" }
       ],
       "Infinix Hot": [
-        { year: "2015", model: "Infinix Hot 2", screen: '5.0" LCD', processor: "MediaTek MT6580", ramStorage: "1–2 GB / 16 GB", battery: "2.200 mAh", camera: "8 MP", image: "images/infinix-hot.jpg" },
-        { year: "2019", model: "Infinix Hot 8", screen: '6.52" LCD', processor: "MediaTek Helio P22", ramStorage: "2–4 GB / 32–64 GB", battery: "5.000 mAh", camera: "13 MP tripla", image: "images/infinix-hot-2.jpg" }
+        { year: "2015", model: "Infinix Hot 2", screen: '5.0" LCD', processor: "MediaTek MT6580", ramStorage: "1–2 GB / 16 GB", battery: "2.200 mAh", camera: "8 MP", image: "infinix-hot.jpg" },
+        { year: "2019", model: "Infinix Hot 8", screen: '6.52" LCD', processor: "MediaTek Helio P22", ramStorage: "2–4 GB / 32–64 GB", battery: "5.000 mAh", camera: "13 MP tripla", image: "infinix-hot-2.jpg" }
       ],
       "Infinix Note": [
         { year: "2016", model: "Infinix Note 3", screen: '5.98" LCD', processor: "MediaTek Helio X10", ramStorage: "2–3 GB / 16–32 GB", battery: "4.500 mAh", camera: "13 MP", image: "1001228663.jpg" },
         { year: "2018", model: "Infinix Note 5", screen: '5.99" LCD', processor: "MediaTek Helio P23", ramStorage: "3–4 GB / 32–64 GB", battery: "4.500 mAh", camera: "12 MP", image: "1001228744.jpg" },
-        { year: "2021", model: "Infinix Note 10 Pro", screen: '6.95" LCD 90Hz', processor: "MediaTek Helio G95", ramStorage: "6–8 GB / 128–256 GB", battery: "5.000 mAh", camera: "64 MP quádrupla", image: "images/infinix-preto.jpg" },
-        { year: "2022", model: "Infinix Note 12 Pro", screen: '6.7" AMOLED', processor: "MediaTek Helio G99", ramStorage: "8 GB / 128–256 GB", battery: "5.000 mAh", camera: "108 MP tripla", image: "images/infinix-azul.jpg" },
-        { year: "2023", model: "Infinix Note 30 Pro", screen: '6.67" AMOLED 120Hz', processor: "MediaTek Helio G99", ramStorage: "8–12 GB / 128–256 GB", battery: "5.000 mAh", camera: "108 MP tripla", image: "images/infinix-dourado.jpg" },
-        { year: "2024", model: "Infinix Note 40 Pro", screen: '6.78" AMOLED 120Hz', processor: "MediaTek Dimensity 7020", ramStorage: "8–12 GB / 256 GB", battery: "5.000 mAh", camera: "108 MP tripla", image: "images/infinix-5g.jpg" },
-        { year: "2025", model: "Infinix Note 50 Pro", screen: '6.78" AMOLED 144Hz', processor: "MediaTek Dimensity 8350", ramStorage: "12 GB / 256 GB", battery: "5.200 mAh", camera: "50 MP tripla", image: "images/infinix-bronze.jpg" },
-        { year: "2026", model: "Infinix Note 60 Ultra", screen: '6.78" AMOLED 144Hz', processor: "MediaTek Dimensity 8400", ramStorage: "12 GB / 256 GB", battery: "6.000 mAh", camera: "50 MP tripla", image: "images/infinix-pininfarina.jpg" }
+        { year: "2021", model: "Infinix Note 10 Pro", screen: '6.95" LCD 90Hz', processor: "MediaTek Helio G95", ramStorage: "6–8 GB / 128–256 GB", battery: "5.000 mAh", camera: "64 MP quádrupla", image: "infinix-preto.jpg" },
+        { year: "2022", model: "Infinix Note 12 Pro", screen: '6.7" AMOLED', processor: "MediaTek Helio G99", ramStorage: "8 GB / 128–256 GB", battery: "5.000 mAh", camera: "108 MP tripla", image: "infinix-azul.jpg" },
+        { year: "2023", model: "Infinix Note 30 Pro", screen: '6.67" AMOLED 120Hz', processor: "MediaTek Helio G99", ramStorage: "8–12 GB / 128–256 GB", battery: "5.000 mAh", camera: "108 MP tripla", image: "infinix-dourado.jpg" },
+        { year: "2024", model: "Infinix Note 40 Pro", screen: '6.78" AMOLED 120Hz', processor: "MediaTek Dimensity 7020", ramStorage: "8–12 GB / 256 GB", battery: "5.000 mAh", camera: "108 MP tripla", image: "infinix-5g.jpg" },
+        { year: "2025", model: "Infinix Note 50 Pro", screen: '6.78" AMOLED 144Hz', processor: "MediaTek Dimensity 8350", ramStorage: "12 GB / 256 GB", battery: "5.200 mAh", camera: "50 MP tripla", image: "infinix-bronze.jpg" },
+        { year: "2026", model: "Infinix Note 60 Ultra", screen: '6.78" AMOLED 144Hz', processor: "MediaTek Dimensity 8400", ramStorage: "12 GB / 256 GB", battery: "6.000 mAh", camera: "50 MP tripla", image: "infinix-pininfarina.jpg" }
       ]
     }
   },
@@ -2017,16 +2017,16 @@ const smartphoneData = {
     history: "Fundada em 2007 e também pertencente ao grupo Transsion Holdings, a itel foca-se em disponibilizar tecnologia essencial e fiável para mercados em desenvolvimento. A marca é reconhecida por liderar o segmento de entrada de gama, oferecendo telemóveis e smartphones práticos, com grande autonomia de bateria e preços extremamente acessíveis.",
     lines: {
       "itel P Series": [
-        { year: "2018", model: "itel P32", screen: '5.5" LCD', processor: "MediaTek MT6580", ramStorage: "1–2 GB / 8–16 GB", battery: "4.000 mAh", camera: "5 MP dupla", image: "images/itel-smartphone.jpg" },
-        { year: "2020", model: "itel P36", screen: '6.09" LCD', processor: "Unisoc SC9863A", ramStorage: "2 GB / 32 GB", battery: "5.000 mAh", camera: "8 MP dupla", image: "images/itel-smartphone-2.jpg" }
+        { year: "2018", model: "itel P32", screen: '5.5" LCD', processor: "MediaTek MT6580", ramStorage: "1–2 GB / 8–16 GB", battery: "4.000 mAh", camera: "5 MP dupla", image: "itel-smartphone.jpg" },
+        { year: "2020", model: "itel P36", screen: '6.09" LCD', processor: "Unisoc SC9863A", ramStorage: "2 GB / 32 GB", battery: "5.000 mAh", camera: "8 MP dupla", image: "itel-smartphone-2.jpg" }
       ],
       "itel A Series": [
-        { year: "2019", model: "itel A46", screen: '5.45" LCD', processor: "Unisoc SC9863A", ramStorage: "2 GB / 32 GB", battery: "4.000 mAh", camera: "8 MP dupla", image: "images/1001227786.jpg" },
-        { year: "2022", model: "itel A27", screen: '5.45" LCD', processor: "Unisoc SC9832E", ramStorage: "2 GB / 32 GB", battery: "4.000 mAh", camera: "5 MP", image: "images/1001227805.jpg" },
-        { year: "2024", model: "itel A50", screen: '6.6" LCD', processor: "Unisoc T603", ramStorage: "3–4 GB / 64–128 GB", battery: "5.000 mAh", camera: "8 MP dupla", image: "images/1001228020.jpg" }
+        { year: "2019", model: "itel A46", screen: '5.45" LCD', processor: "Unisoc SC9863A", ramStorage: "2 GB / 32 GB", battery: "4.000 mAh", camera: "8 MP dupla", image: "1001227786.jpg" },
+        { year: "2022", model: "itel A27", screen: '5.45" LCD', processor: "Unisoc SC9832E", ramStorage: "2 GB / 32 GB", battery: "4.000 mAh", camera: "5 MP", image: "1001227805.jpg" },
+        { year: "2024", model: "itel A50", screen: '6.6" LCD', processor: "Unisoc T603", ramStorage: "3–4 GB / 64–128 GB", battery: "5.000 mAh", camera: "8 MP dupla", image: "1001228020.jpg" }
       ],
       "itel S Series": [
-        { year: "2023", model: "itel S23", screen: '6.6" AMOLED 90Hz', processor: "Unisoc T606", ramStorage: "4–8 GB / 128 GB", battery: "5.000 mAh", camera: "50 MP", image: "images/1001227779.jpg" }
+        { year: "2023", model: "itel S23", screen: '6.6" AMOLED 90Hz', processor: "Unisoc T606", ramStorage: "4–8 GB / 128 GB", battery: "5.000 mAh", camera: "50 MP", image: "1001227779.jpg" }
       ]
     }
   },
@@ -2038,8 +2038,8 @@ const smartphoneData = {
         { year: "2010", model: "ZTE Blade", screen: '3.5" LCD', processor: "Snapdragon S1", ramStorage: "512 MB / 512 MB", battery: "1.250 mAh", camera: "3.2 MP", image: "1001224862.png" }
       ],
       "Axon": [
-        { year: "2016", model: "ZTE Axon 7", screen: '5.5" AMOLED 1440p', processor: "Snapdragon 820", ramStorage: "4–6 GB / 64–128 GB", battery: "3.250 mAh", camera: "20 MP", image: "images/zte-axon.jpg" },
-        { year: "2023", model: "ZTE Axon 50 Ultra", screen: '6.67" AMOLED 144Hz', processor: "Snapdragon 8+ Gen 1", ramStorage: "12 GB / 256–512 GB", battery: "5.000 mAh", camera: "64 MP tripla", image: "images/zte-axon-5g.jpg" }
+        { year: "2016", model: "ZTE Axon 7", screen: '5.5" AMOLED 1440p', processor: "Snapdragon 820", ramStorage: "4–6 GB / 64–128 GB", battery: "3.250 mAh", camera: "20 MP", image: "zte-axon.jpg" },
+        { year: "2023", model: "ZTE Axon 50 Ultra", screen: '6.67" AMOLED 144Hz', processor: "Snapdragon 8+ Gen 1", ramStorage: "12 GB / 256–512 GB", battery: "5.000 mAh", camera: "64 MP tripla", image: "zte-axon-5g.jpg" }
       ]
     }
   },
@@ -2048,11 +2048,11 @@ const smartphoneData = {
     history: "Criada em 2012 como uma sub-marca de topo da ZTE e tornando-se uma empresa independente em 2015, a Nubia destacou-se no mercado pelo foco em fotografia profissional e design sem margens. A marca ganhou grande notoriedade internacional através da sua submarca RedMagic, totalmente dedicada a smartphones de gaming com arrefecimento ativo e desempenho extremo.",
     lines: {
       "Z Series": [
-        { year: "2014", model: "ZTE Nubia Z7", screen: '5.5" LCD 1440p', processor: "Snapdragon 801", ramStorage: "3 GB / 32 GB", battery: "3.000 mAh", camera: "13 MP", image: "images/zte-smartphone.jpg" },
-        { year: "2024", model: "nubia Z60 Ultra", screen: '6.8" AMOLED 120Hz', processor: "Snapdragon 8 Gen 3", ramStorage: "12–16 GB / 256 GB–1 TB", battery: "6.000 mAh", camera: "50 MP tripla", image: "images/nubia-smartphone.jpg" }
+        { year: "2014", model: "ZTE Nubia Z7", screen: '5.5" LCD 1440p', processor: "Snapdragon 801", ramStorage: "3 GB / 32 GB", battery: "3.000 mAh", camera: "13 MP", image: "zte-smartphone.jpg" },
+        { year: "2024", model: "nubia Z60 Ultra", screen: '6.8" AMOLED 120Hz', processor: "Snapdragon 8 Gen 3", ramStorage: "12–16 GB / 256 GB–1 TB", battery: "6.000 mAh", camera: "50 MP tripla", image: "nubia-smartphone.jpg" }
       ],
       "Flip Series": [
-        { year: "2024", model: "nubia Flip 5G", screen: '6.9" OLED dobrável', processor: "Snapdragon 7 Gen 1", ramStorage: "8–12 GB / 256–512 GB", battery: "4.310 mAh", camera: "50 MP dupla", image: "images/smartphone.jpg" }
+        { year: "2024", model: "nubia Flip 5G", screen: '6.9" OLED dobrável', processor: "Snapdragon 7 Gen 1", ramStorage: "8–12 GB / 256–512 GB", battery: "4.310 mAh", camera: "50 MP dupla", image: "smartphone.jpg" }
       ]
     }
   },
@@ -2061,15 +2061,15 @@ const smartphoneData = {
     history: "Lançada em 2018 como a divisão focada em gaming da Nubia (e associada à ZTE), a RedMagic nasceu com o objetivo claro de ultrapassar os limites do desempenho móvel. A marca tornou-se uma referência global para jogadores ao introduzir ventoinhas de arrefecimento físico integradas nos smartphones, gatilhos tácteis dedicados, ecrãs com elevadas taxas de atualização e um design futurista inconfundível.",
     lines: {
         "RedMagic Series": [
-        { year: "2018", model: "nubia RedMagic", screen: '6.0" LCD 1080p', processor: "Snapdragon 835", ramStorage: "6–8 GB / 64–128 GB", battery: "3.800 mAh", camera: "24 MP", image: "imagens/redmagic-mars.jpg" },
-        { year: "2019", model: "nubia RedMagic 3", screen: '6.65" AMOLED 90Hz', processor: "Snapdragon 855", ramStorage: "6–12 GB / 64–256 GB", battery: "5.000 mAh", camera: "48 MP", image: "imagens/redmagic-gaming-2.jpg" },
-        { year: "2020", model: "nubia RedMagic 5G", screen: '6.65" AMOLED 144Hz', processor: "Snapdragon 865", ramStorage: "8–16 GB / 128–256 GB", battery: "4.500 mAh", camera: "64 MP tripla", image: "imagens/redmagic-5g.jpg" },
-        { year: "2021", model: "nubia RedMagic 6 Pro", screen: '6.8" AMOLED 165Hz', processor: "Snapdragon 888", ramStorage: "12–18 GB / 128–512 GB", battery: "5.050 mAh", camera: "64 MP tripla", image: "imagens/redmagic-rgb.jpg" },
-        { year: "2022", model: "nubia RedMagic 7 Pro", screen: '6.8" AMOLED 165Hz', processor: "Snapdragon 8 Gen 1", ramStorage: "8–18 GB / 128 GB–1 TB", battery: "5.000 mAh", camera: "64 MP tripla", image: "imagens/redmagic-gaming.jpg" },
-        { year: "2023", model: "nubia RedMagic 8 Pro", screen: '6.8" AMOLED 120Hz', processor: "Snapdragon 8 Gen 2", ramStorage: "8–16 GB / 128–512 GB", battery: "6.000 mAh", camera: "50 MP tripla", image: "imagens/redmagic-silver.jpg" },
-        { year: "2024", model: "nubia RedMagic 9 Pro", screen: '6.8" AMOLED 120Hz', processor: "Snapdragon 8 Gen 3", ramStorage: "8–16 GB / 256 GB–1 TB", battery: "6.500 mAh", camera: "50 MP tripla", image: "imagens/redmagic.jpg" },
-        { year: "2025", model: "nubia RedMagic 10 Pro", screen: '6.85" AMOLED 144Hz', processor: "Snapdragon 8 Elite", ramStorage: "12–24 GB / 256 GB–1 TB", battery: "7.050 mAh", camera: "50 MP tripla", image: "images/redmagic-concept.jpg" },
-        { year: "2026", model: "nubia RedMagic 11S Pro", screen: '6.85" AMOLED 144Hz', processor: "Snapdragon 8 Elite Gen 5", ramStorage: "12–24 GB / 256 GB–1 TB", battery: "8.000 mAh", camera: "50 MP tripla", image: "images/redmagic.jpg" }
+        { year: "2018", model: "nubia RedMagic", screen: '6.0" LCD 1080p', processor: "Snapdragon 835", ramStorage: "6–8 GB / 64–128 GB", battery: "3.800 mAh", camera: "24 MP", image: "redmagic-mars.jpg" },
+        { year: "2019", model: "nubia RedMagic 3", screen: '6.65" AMOLED 90Hz', processor: "Snapdragon 855", ramStorage: "6–12 GB / 64–256 GB", battery: "5.000 mAh", camera: "48 MP", image: "redmagic-gaming-2.jpg" },
+        { year: "2020", model: "nubia RedMagic 5G", screen: '6.65" AMOLED 144Hz', processor: "Snapdragon 865", ramStorage: "8–16 GB / 128–256 GB", battery: "4.500 mAh", camera: "64 MP tripla", image: "redmagic-5g.jpg" },
+        { year: "2021", model: "nubia RedMagic 6 Pro", screen: '6.8" AMOLED 165Hz', processor: "Snapdragon 888", ramStorage: "12–18 GB / 128–512 GB", battery: "5.050 mAh", camera: "64 MP tripla", image: "redmagic-rgb.jpg" },
+        { year: "2022", model: "nubia RedMagic 7 Pro", screen: '6.8" AMOLED 165Hz', processor: "Snapdragon 8 Gen 1", ramStorage: "8–18 GB / 128 GB–1 TB", battery: "5.000 mAh", camera: "64 MP tripla", image: "redmagic-gaming.jpg" },
+        { year: "2023", model: "nubia RedMagic 8 Pro", screen: '6.8" AMOLED 120Hz', processor: "Snapdragon 8 Gen 2", ramStorage: "8–16 GB / 128–512 GB", battery: "6.000 mAh", camera: "50 MP tripla", image: "redmagic-silver.jpg" },
+        { year: "2024", model: "nubia RedMagic 9 Pro", screen: '6.8" AMOLED 120Hz', processor: "Snapdragon 8 Gen 3", ramStorage: "8–16 GB / 256 GB–1 TB", battery: "6.500 mAh", camera: "50 MP tripla", image: "redmagic.jpg" },
+        { year: "2025", model: "nubia RedMagic 10 Pro", screen: '6.85" AMOLED 144Hz', processor: "Snapdragon 8 Elite", ramStorage: "12–24 GB / 256 GB–1 TB", battery: "7.050 mAh", camera: "50 MP tripla", image: "redmagic-concept.jpg" },
+        { year: "2026", model: "nubia RedMagic 11S Pro", screen: '6.85" AMOLED 144Hz', processor: "Snapdragon 8 Elite Gen 5", ramStorage: "12–24 GB / 256 GB–1 TB", battery: "8.000 mAh", camera: "50 MP tripla", image: "redmagic.jpg" }
       ]
     }
   },
@@ -2078,16 +2078,16 @@ const smartphoneData = {
     history: "Fundada em 1981 na China como TTK e mais tarde renomeada para TCL (The Creative Life), a empresa tornou-se uma gigante global no setor dos eletrodomésticos e televisores. No mercado móvel, após anos a fabricar e gerir dispositivos sob licença da BlackBerry e Alcatel, a marca lançou a sua própria linha de smartphones, destacando-se pela tecnologia de ecrã avançada NXTPAPER e excelente relação qualidade-preço.", 
     lines: {
       "TCL Series": [
-        { year: "2019", model: "TCL Plex", screen: '6.53" LCD', processor: "Snapdragon 675", ramStorage: "6 GB / 128 GB", battery: "3.820 mAh", camera: "48 MP tripla", image: "images/tcl-iridescente.jpg" },
-        { year: "2020", model: "TCL 10 Pro", screen: '6.47" AMOLED', processor: "Snapdragon 675", ramStorage: "6 GB / 128 GB", battery: "4.500 mAh", camera: "64 MP quádrupla", image: "images/tcl-cinza.jpg" },
-        { year: "2021", model: "TCL 20 Pro 5G", screen: '6.67" AMOLED', processor: "Snapdragon 750G", ramStorage: "6–8 GB / 256 GB", battery: "4.500 mAh", camera: "48 MP quádrupla", image: "images/tcl-smartphone.jpg" },
-        { year: "2022", model: "TCL 30 5G", screen: '6.7" AMOLED', processor: "MediaTek Dimensity 700", ramStorage: "4–6 GB / 64–128 GB", battery: "5.000 mAh", camera: "50 MP tripla", image: "images/TCL_Smartphone_01.jpg" },
-        { year: "2023", model: "TCL 40 XL", screen: '6.75" LCD 90Hz', processor: "MediaTek Helio G37", ramStorage: "4 GB / 128 GB", battery: "5.000 mAh", camera: "50 MP tripla", image: "images/TCL_Smartphone_02.jpg" },
-        { year: "2024", model: "TCL 50 XL 5G", screen: '6.78" LCD 120Hz', processor: "MediaTek Dimensity 6100+", ramStorage: "6 GB / 128 GB", battery: "5.010 mAh", camera: "50 MP tripla", image: "images/TCL_Smartphone_03.jpg" },
-        { year: "2025", model: "TCL 60 XE 5G", screen: '6.78" LCD 120Hz', processor: "MediaTek Dimensity 6300", ramStorage: "8 GB / 256 GB", battery: "5.200 mAh", camera: "50 MP tripla", image: "images/TCL_Smartphone_04.jpg" }
+        { year: "2019", model: "TCL Plex", screen: '6.53" LCD', processor: "Snapdragon 675", ramStorage: "6 GB / 128 GB", battery: "3.820 mAh", camera: "48 MP tripla", image: "tcl-iridescente.jpg" },
+        { year: "2020", model: "TCL 10 Pro", screen: '6.47" AMOLED', processor: "Snapdragon 675", ramStorage: "6 GB / 128 GB", battery: "4.500 mAh", camera: "64 MP quádrupla", image: "tcl-cinza.jpg" },
+        { year: "2021", model: "TCL 20 Pro 5G", screen: '6.67" AMOLED', processor: "Snapdragon 750G", ramStorage: "6–8 GB / 256 GB", battery: "4.500 mAh", camera: "48 MP quádrupla", image: "tcl-smartphone.jpg" },
+        { year: "2022", model: "TCL 30 5G", screen: '6.7" AMOLED', processor: "MediaTek Dimensity 700", ramStorage: "4–6 GB / 64–128 GB", battery: "5.000 mAh", camera: "50 MP tripla", image: "TCL_Smartphone_01.jpg" },
+        { year: "2023", model: "TCL 40 XL", screen: '6.75" LCD 90Hz', processor: "MediaTek Helio G37", ramStorage: "4 GB / 128 GB", battery: "5.000 mAh", camera: "50 MP tripla", image: "TCL_Smartphone_02.jpg" },
+        { year: "2024", model: "TCL 50 XL 5G", screen: '6.78" LCD 120Hz', processor: "MediaTek Dimensity 6100+", ramStorage: "6 GB / 128 GB", battery: "5.010 mAh", camera: "50 MP tripla", image: "TCL_Smartphone_03.jpg" },
+        { year: "2025", model: "TCL 60 XE 5G", screen: '6.78" LCD 120Hz', processor: "MediaTek Dimensity 6300", ramStorage: "8 GB / 256 GB", battery: "5.200 mAh", camera: "50 MP tripla", image: "TCL_Smartphone_04.jpg" }
       ],
       "TCL NXTPAPER": [
-        { year: "2024", model: "TCL 50 Pro NXTPAPER", screen: '6.8" NXTPAPER', processor: "MediaTek Dimensity 7050", ramStorage: "8 GB / 256–512 GB", battery: "5.010 mAh", camera: "108 MP tripla", image: "images/tcl-nxtpaper.jpg" }
+        { year: "2024", model: "TCL 50 Pro NXTPAPER", screen: '6.8" NXTPAPER', processor: "MediaTek Dimensity 7050", ramStorage: "8 GB / 256–512 GB", battery: "5.010 mAh", camera: "108 MP tripla", image: "tcl-nxtpaper.jpg" }
       ]
     }
   },
@@ -2096,16 +2096,16 @@ const smartphoneData = {
     history: "Fundada em 1984 em Pequim, a Lenovo é uma das maiores empresas de tecnologia do mundo e líder no mercado global de PCs. No setor móvel, expandiu significativamente a sua presença com a aquisição da Motorola à Google em 2014, mantendo a sua própria linha de dispositivos focada em inovação, produtividade e smartphones de topo para gaming sob a chancela Legion.",
     lines: {
       "Lenovo Legion": [
-        { year: "2020", model: "Lenovo Legion Duel", screen: '6.65" AMOLED 144Hz', processor: "Snapdragon 865+", ramStorage: "12–16 GB / 256–512 GB", battery: "5.000 mAh", camera: "64 MP dupla", image: "images/lenovo-legion-azul.jpg" },
-        { year: "2021", model: "Lenovo Legion Duel 2", screen: '6.92" AMOLED 144Hz', processor: "Snapdragon 888", ramStorage: "12–16 GB / 256–512 GB", battery: "5.500 mAh", camera: "64 MP dupla", image: "images/lenovo-legion.jpg" },
-        { year: "2022", model: "Lenovo Legion Y70", screen: '6.67" AMOLED 144Hz', processor: "Snapdragon 8+ Gen 1", ramStorage: "8–12 GB / 128–256 GB", battery: "5.100 mAh", camera: "50 MP tripla", image: "images/lenovo-legion-preto.jpg" },
-        { year: "2024", model: "Lenovo Legion Y70 (2024)", screen: '6.8" AMOLED 165Hz', processor: "Snapdragon 8 Gen 3", ramStorage: "12–16 GB / 256–512 GB", battery: "5.500 mAh", camera: "50 MP tripla", image: "images/lenovo-legion-tablet.jpg" }
+        { year: "2020", model: "Lenovo Legion Duel", screen: '6.65" AMOLED 144Hz', processor: "Snapdragon 865+", ramStorage: "12–16 GB / 256–512 GB", battery: "5.000 mAh", camera: "64 MP dupla", image: "lenovo-legion-azul.jpg" },
+        { year: "2021", model: "Lenovo Legion Duel 2", screen: '6.92" AMOLED 144Hz', processor: "Snapdragon 888", ramStorage: "12–16 GB / 256–512 GB", battery: "5.500 mAh", camera: "64 MP dupla", image: "lenovo-legion.jpg" },
+        { year: "2022", model: "Lenovo Legion Y70", screen: '6.67" AMOLED 144Hz', processor: "Snapdragon 8+ Gen 1", ramStorage: "8–12 GB / 128–256 GB", battery: "5.100 mAh", camera: "50 MP tripla", image: "lenovo-legion-preto.jpg" },
+        { year: "2024", model: "Lenovo Legion Y70 (2024)", screen: '6.8" AMOLED 165Hz', processor: "Snapdragon 8 Gen 3", ramStorage: "12–16 GB / 256–512 GB", battery: "5.500 mAh", camera: "50 MP tripla", image: "lenovo-legion-tablet.jpg" }
       ],
       "Lenovo K": [
         { year: "2012", model: "Lenovo K800", screen: '4.5" LCD', processor: "Intel Atom", ramStorage: "1 GB / 16 GB", battery: "1.900 mAh", camera: "8 MP", image: "images/lenovo-smartphone.png" }
       ],
       "Lenovo ThinkPhone": [
-        { year: "2023", model: "Lenovo ThinkPhone", screen: '6.6" P-OLED 144Hz', processor: "Snapdragon 8+ Gen 1", ramStorage: "8–12 GB / 256–512 GB", battery: "5.000 mAh", camera: "50 MP dupla", image: "images/smartphone.jpg" }
+        { year: "2023", model: "Lenovo ThinkPhone", screen: '6.6" P-OLED 144Hz', processor: "Snapdragon 8+ Gen 1", ramStorage: "8–12 GB / 256–512 GB", battery: "5.000 mAh", camera: "50 MP dupla", image: "smartphone.jpg" }
       ]
     }
   },
@@ -2114,21 +2114,21 @@ const smartphoneData = {
     history: "Fundada em 2003 por Jack Wong como fabricante de leitores de MP3/MP4, a Meizu transitou para o mercado de smartphones em 2008, tornando-se uma das pioneiras da telefonia inteligente na China. A marca destacou-se ao longo dos anos pela sua interface Flyme OS, pelo design cuidado com botões capacitivos inovadores (como o mBack) e pela integração de componentes de alta fidelidade de áudio.",
     lines: {
       "Meizu Number Series": [
-        { year: "2019", model: "Meizu 16s", screen: '6.2" AMOLED', processor: "Snapdragon 855", ramStorage: "6–8 GB / 128–256 GB", battery: "3.600 mAh", camera: "48 MP dupla", image: "images/meizu-16s.jpg" },
-        { year: "2020", model: "Meizu 17", screen: '6.6" AMOLED 120Hz', processor: "Snapdragon 865", ramStorage: "8–12 GB / 128–256 GB", battery: "4.500 mAh", camera: "64 MP quádrupla", image: "images/meizu-verde.jpg" },
-        { year: "2021", model: "Meizu 18 Pro", screen: '6.7" AMOLED 120Hz', processor: "Snapdragon 888", ramStorage: "8–12 GB / 128–256 GB", battery: "4.500 mAh", camera: "50 MP tripla", image: "images/meizu-pro-branco.jpg" },
-        { year: "2022", model: "Meizu 19", screen: '6.7" AMOLED 120Hz', processor: "Snapdragon 8 Gen 1", ramStorage: "8–12 GB / 128–256 GB", battery: "4.700 mAh", camera: "50 MP tripla", image: "images/meizu-smartphone.jpg" },
-        { year: "2023", model: "Meizu 20", screen: '6.55" AMOLED 120Hz', processor: "Snapdragon 8 Gen 2", ramStorage: "12 GB / 128–512 GB", battery: "4.700 mAh", camera: "50 MP tripla", image: "images/meizu-dourado.jpg" },
-        { year: "2024", model: "Meizu 21", screen: '6.55" AMOLED 120Hz', processor: "Snapdragon 8 Gen 3", ramStorage: "12 GB / 256–512 GB", battery: "4.800 mAh", camera: "50 MP tripla", image: "images/smartphone-lilas.jpg" }
+        { year: "2019", model: "Meizu 16s", screen: '6.2" AMOLED', processor: "Snapdragon 855", ramStorage: "6–8 GB / 128–256 GB", battery: "3.600 mAh", camera: "48 MP dupla", image: "meizu-16s.jpg" },
+        { year: "2020", model: "Meizu 17", screen: '6.6" AMOLED 120Hz', processor: "Snapdragon 865", ramStorage: "8–12 GB / 128–256 GB", battery: "4.500 mAh", camera: "64 MP quádrupla", image: "meizu-verde.jpg" },
+        { year: "2021", model: "Meizu 18 Pro", screen: '6.7" AMOLED 120Hz', processor: "Snapdragon 888", ramStorage: "8–12 GB / 128–256 GB", battery: "4.500 mAh", camera: "50 MP tripla", image: "meizu-pro-branco.jpg" },
+        { year: "2022", model: "Meizu 19", screen: '6.7" AMOLED 120Hz', processor: "Snapdragon 8 Gen 1", ramStorage: "8–12 GB / 128–256 GB", battery: "4.700 mAh", camera: "50 MP tripla", image: "meizu-smartphone.jpg" },
+        { year: "2023", model: "Meizu 20", screen: '6.55" AMOLED 120Hz', processor: "Snapdragon 8 Gen 2", ramStorage: "12 GB / 128–512 GB", battery: "4.700 mAh", camera: "50 MP tripla", image: "meizu-dourado.jpg" },
+        { year: "2024", model: "Meizu 21", screen: '6.55" AMOLED 120Hz', processor: "Snapdragon 8 Gen 3", ramStorage: "12 GB / 256–512 GB", battery: "4.800 mAh", camera: "50 MP tripla", image: "smartphone-lilas.jpg" }
       ],
       "Meizu Pro": [
-        { year: "2015", model: "Meizu Pro 5", screen: '5.7" AMOLED', processor: "Exynos 7420", ramStorage: "3–4 GB / 32–64 GB", battery: "3.050 mAh", camera: "21 MP", image: "images/meizu-pro5.jpg" },
-        { year: "2016", model: "Meizu Pro 6", screen: '5.2" AMOLED', processor: "MediaTek Helio X25", ramStorage: "4 GB / 32–64 GB", battery: "2.560 mAh", camera: "21 MP", image: "images/meizu-cinza.jpg" },
-        { year: "2017", model: "Meizu Pro 7 Plus", screen: '5.7" AMOLED', processor: "MediaTek Helio X30", ramStorage: "6 GB / 64–128 GB", battery: "3.500 mAh", camera: "12 MP dupla", image: "images/meizu-pro7.jpg" }
+        { year: "2015", model: "Meizu Pro 5", screen: '5.7" AMOLED', processor: "Exynos 7420", ramStorage: "3–4 GB / 32–64 GB", battery: "3.050 mAh", camera: "21 MP", image: "meizu-pro5.jpg" },
+        { year: "2016", model: "Meizu Pro 6", screen: '5.2" AMOLED', processor: "MediaTek Helio X25", ramStorage: "4 GB / 32–64 GB", battery: "2.560 mAh", camera: "21 MP", image: "meizu-cinza.jpg" },
+        { year: "2017", model: "Meizu Pro 7 Plus", screen: '5.7" AMOLED', processor: "MediaTek Helio X30", ramStorage: "6 GB / 64–128 GB", battery: "3.500 mAh", camera: "12 MP dupla", image: "meizu-pro7.jpg" }
       ],
       "Meizu Note": [
-        { year: "2025", model: "Meizu Note 22 Pro", screen: '6.78" AMOLED 120Hz', processor: "Snapdragon 7+ Gen 3", ramStorage: "8–12 GB / 256–512 GB", battery: "6.200 mAh", camera: "50 MP tripla", image: "images/meizu-smartphone.jpg" },
-        { year: "2026", model: "Meizu Note 16 (prev.)", screen: '6.78" AMOLED 120Hz', processor: "Snapdragon 6 Gen 1", ramStorage: "8–12 GB / 128–256 GB", battery: "5.000 mAh", camera: "50 MP dupla", image: "images/meizu-preto.jpg" }
+        { year: "2025", model: "Meizu Note 22 Pro", screen: '6.78" AMOLED 120Hz', processor: "Snapdragon 7+ Gen 3", ramStorage: "8–12 GB / 256–512 GB", battery: "6.200 mAh", camera: "50 MP tripla", image: "meizu-smartphone.jpg" },
+        { year: "2026", model: "Meizu Note 16 (prev.)", screen: '6.78" AMOLED 120Hz', processor: "Snapdragon 6 Gen 1", ramStorage: "8–12 GB / 128–256 GB", battery: "5.000 mAh", camera: "50 MP dupla", image: "meizu-preto.jpg" }
       ]
     }
   },
@@ -2137,14 +2137,14 @@ const smartphoneData = {
     history: "Fundada em 1912 no Japão, a Sharp é uma lendária empresa de eletrónica de consumo, famosa pelas suas inovações em tecnologias de visualização. No mercado móvel, a marca destacou-se por ser pioneira no lançamento do primeiro telemóvel com câmara integrada (o J-SH04, no ano 2000) e, mais recentemente, pela linha AQUOS, reconhecida pelos ecrãs de topo com tecnologias como OLED e taxas de atualização ultra-elevadas.",
     lines: {
       "AQUOS R": [
-        { year: "2017", model: "Sharp Aquos R", screen: '5.3" LCD 1440p', processor: "Snapdragon 835", ramStorage: "4 GB / 64 GB", battery: "3.160 mAh", camera: "22.6 MP", image: "images/sharp-aquos.jpg" },
-        { year: "2019", model: "Sharp Aquos R3", screen: '6.2" LCD 120Hz', processor: "Snapdragon 855", ramStorage: "6 GB / 128 GB", battery: "3.200 mAh", camera: "12 MP dupla", image: "images/sharp-aquos.jpg" },
-        { year: "2021", model: "Sharp Aquos R6", screen: '6.6" OLED 120Hz', processor: "Snapdragon 888", ramStorage: "12 GB / 128 GB", battery: "5.000 mAh", camera: "20 MP dupla", image: "images/sharp-aquos.jpg" },
-        { year: "2022", model: "Sharp Aquos R7", screen: '6.6" OLED 120Hz', processor: "Snapdragon 8 Gen 1", ramStorage: "12 GB / 256 GB", battery: "5.000 mAh", camera: "47 MP dupla", image: "images/aquos-blue.png" },
-        { year: "2023", model: "Sharp Aquos R8 Pro", screen: '6.6" OLED 120Hz', processor: "Snapdragon 8 Gen 2", ramStorage: "12 GB / 256 GB", battery: "5.000 mAh", camera: "47 MP dupla", image: "images/aquos-leitz-black.png" },
-        { year: "2024", model: "Sharp Aquos R9 Pro", screen: '6.6" OLED 120Hz', processor: "Snapdragon 8s Gen 3", ramStorage: "12 GB / 256–512 GB", battery: "5.000 mAh", camera: "50 MP tripla", image: "images/sharp-aquos-black.png" },
-        { year: "2025", model: "Sharp Aquos R10", screen: '6.6" OLED 120Hz', processor: "Snapdragon 8 Gen 3", ramStorage: "12 GB / 256–512 GB", battery: "5.000 mAh", camera: "50 MP tripla", image: "images/sharp-aquos.png" },
-        { year: "2026", model: "Sharp Aquos R11", screen: '6.6" OLED 120Hz', processor: "Snapdragon 8s Gen 4", ramStorage: "12 GB / 256–512 GB", battery: "5.000 mAh", camera: "50 MP tripla", image: "imagens/sharp-aquos.jpg" }
+        { year: "2017", model: "Sharp Aquos R", screen: '5.3" LCD 1440p', processor: "Snapdragon 835", ramStorage: "4 GB / 64 GB", battery: "3.160 mAh", camera: "22.6 MP", image: "sharp-aquos.jpg" },
+        { year: "2019", model: "Sharp Aquos R3", screen: '6.2" LCD 120Hz', processor: "Snapdragon 855", ramStorage: "6 GB / 128 GB", battery: "3.200 mAh", camera: "12 MP dupla", image: "sharp-aquos.jpg" },
+        { year: "2021", model: "Sharp Aquos R6", screen: '6.6" OLED 120Hz', processor: "Snapdragon 888", ramStorage: "12 GB / 128 GB", battery: "5.000 mAh", camera: "20 MP dupla", image: "sharp-aquos.jpg" },
+        { year: "2022", model: "Sharp Aquos R7", screen: '6.6" OLED 120Hz', processor: "Snapdragon 8 Gen 1", ramStorage: "12 GB / 256 GB", battery: "5.000 mAh", camera: "47 MP dupla", image: "aquos-blue.png" },
+        { year: "2023", model: "Sharp Aquos R8 Pro", screen: '6.6" OLED 120Hz', processor: "Snapdragon 8 Gen 2", ramStorage: "12 GB / 256 GB", battery: "5.000 mAh", camera: "47 MP dupla", image: "aquos-leitz-black.png" },
+        { year: "2024", model: "Sharp Aquos R9 Pro", screen: '6.6" OLED 120Hz', processor: "Snapdragon 8s Gen 3", ramStorage: "12 GB / 256–512 GB", battery: "5.000 mAh", camera: "50 MP tripla", image: "sharp-aquos-black.png" },
+        { year: "2025", model: "Sharp Aquos R10", screen: '6.6" OLED 120Hz', processor: "Snapdragon 8 Gen 3", ramStorage: "12 GB / 256–512 GB", battery: "5.000 mAh", camera: "50 MP tripla", image: "sharp-aquos.png" },
+        { year: "2026", model: "Sharp Aquos R11", screen: '6.6" OLED 120Hz', processor: "Snapdragon 8s Gen 4", ramStorage: "12 GB / 256–512 GB", battery: "5.000 mAh", camera: "50 MP tripla", image: "sharp-aquos.jpg" }
       ]
     }
   },
@@ -2153,17 +2153,17 @@ const smartphoneData = {
     history: "Fundada em 1984 no Canadá como Research In Motion (RIM), a BlackBerry revolucionou a comunicação móvel e o segmento corporativo no início dos anos 2000. Famosa pelos seus teclados QWERTY físicos, segurança avançada de dados e o lendário serviço BlackBerry Messenger (BBM), a marca definiu o conceito de smartphone empresarial antes de transitar a sua licença e ecossistema para outras fabricantes e focar-se em cibersegurança.",
     lines: {
       "BlackBerry KEY": [
-        { year: "2017", model: "BlackBerry KEYone", screen: '4.5" LCD', processor: "Snapdragon 625", ramStorage: "3–4 GB / 32–64 GB", battery: "3.505 mAh", camera: "12 MP", image: "images/blackberry-smartphone.jpg" },
-        { year: "2018", model: "BlackBerry KEY2", screen: '4.5" LCD', processor: "Snapdragon 660", ramStorage: "6 GB / 64–128 GB", battery: "3.500 mAh", camera: "12 MP dupla", image: "images/blackberry-smartphone.jpg" }
+        { year: "2017", model: "BlackBerry KEYone", screen: '4.5" LCD', processor: "Snapdragon 625", ramStorage: "3–4 GB / 32–64 GB", battery: "3.505 mAh", camera: "12 MP", image: "blackberry-smartphone.jpg" },
+        { year: "2018", model: "BlackBerry KEY2", screen: '4.5" LCD', processor: "Snapdragon 660", ramStorage: "6 GB / 64–128 GB", battery: "3.500 mAh", camera: "12 MP dupla", image: "blackberry-smartphone.jpg" }
       ],
       "BlackBerry Bold": [
-        { year: "2011", model: "BlackBerry Bold 9900", screen: '2.8" LCD', processor: "Snapdragon S2", ramStorage: "768 MB / 8 GB", battery: "1.230 mAh", camera: "5 MP", image: "images/blackberry.jpg" }
+        { year: "2011", model: "BlackBerry Bold 9900", screen: '2.8" LCD', processor: "Snapdragon S2", ramStorage: "768 MB / 8 GB", battery: "1.230 mAh", camera: "5 MP", image: "blackberry.jpg" }
       ],
       "BlackBerry Passport": [
         { year: "2014", model: "BlackBerry Passport", screen: '4.5" LCD', processor: "Snapdragon 801", ramStorage: "3 GB / 32 GB", battery: "3.450 mAh", camera: "13 MP", image: "1001225530.jpg" }
       ],
       "BlackBerry Priv": [
-        { year: "2015", model: "BlackBerry Priv", screen: '5.4" AMOLED', processor: "Snapdragon 808", ramStorage: "3 GB / 32 GB", battery: "3.410 mAh", camera: "18 MP", image: "images/blackberry-passport.jpg" }
+        { year: "2015", model: "BlackBerry Priv", screen: '5.4" AMOLED', processor: "Snapdragon 808", ramStorage: "3 GB / 32 GB", battery: "3.410 mAh", camera: "18 MP", image: "blackberry-passport.jpg" }
       ]
     }
   },
@@ -2177,17 +2177,17 @@ const smartphoneData = {
         { year: "2015", model: "LG G4", screen: '5.5" LCD 1440p', processor: "Snapdragon 808", ramStorage: "3 GB / 32 GB", battery: "3.000 mAh", camera: "16 MP", image: "1001226327.jpg" },
         { year: "2016", model: "LG G5", screen: '5.3" LCD 1440p', processor: "Snapdragon 820", ramStorage: "4 GB / 32 GB", battery: "2.800 mAh", camera: "16 MP dupla", image: "1001226335.jpg" },
         { year: "2017", model: "LG G6", screen: '5.7" LCD 1440p', processor: "Snapdragon 821", ramStorage: "4 GB / 32–128 GB", battery: "3.300 mAh", camera: "13 MP dupla", image: "1001226341.jpg" },
-        { year: "2018", model: "LG G7 ThinQ", screen: '6.1" LCD 1440p', processor: "Snapdragon 845", ramStorage: "4–6 GB / 64–128 GB", battery: "3.000 mAh", camera: "16 MP dupla", image: "images/lg-g7-thinq.jpg" },
-        { year: "2019", model: "LG G8 ThinQ", screen: '6.1" OLED 1440p', processor: "Snapdragon 855", ramStorage: "6 GB / 128 GB", battery: "3.500 mAh", camera: "12 MP tripla", image: "images/lg-smartphone.jpg" }
+        { year: "2018", model: "LG G7 ThinQ", screen: '6.1" LCD 1440p', processor: "Snapdragon 845", ramStorage: "4–6 GB / 64–128 GB", battery: "3.000 mAh", camera: "16 MP dupla", image: "lg-g7-thinq.jpg" },
+        { year: "2019", model: "LG G8 ThinQ", screen: '6.1" OLED 1440p', processor: "Snapdragon 855", ramStorage: "6 GB / 128 GB", battery: "3.500 mAh", camera: "12 MP tripla", image: "lg-smartphone.jpg" }
       ],
       "LG V": [
-        { year: "2021", model: "LG V60 ThinQ", screen: '6.8" P-OLED 1080p', processor: "Snapdragon 865", ramStorage: "8 GB / 128–256 GB", battery: "5.000 mAh", camera: "64 MP tripla", image: "images/lg-v60-thinq.jpg" }
+        { year: "2021", model: "LG V60 ThinQ", screen: '6.8" P-OLED 1080p', processor: "Snapdragon 865", ramStorage: "8 GB / 128–256 GB", battery: "5.000 mAh", camera: "64 MP tripla", image: "lg-v60-thinq.jpg" }
       ],
       "LG Velvet": [
-        { year: "2020", model: "LG Velvet", screen: '6.8" P-OLED 1080p', processor: "Snapdragon 765G", ramStorage: "6–8 GB / 128 GB", battery: "4.300 mAh", camera: "48 MP tripla", image: "images/lg-smartphone.jpg" }
+        { year: "2020", model: "LG Velvet", screen: '6.8" P-OLED 1080p', processor: "Snapdragon 765G", ramStorage: "6–8 GB / 128 GB", battery: "4.300 mAh", camera: "48 MP tripla", image: "lg-smartphone.jpg" }
       ],
       "LG Wing": [
-        { year: "2020", model: "LG Wing", screen: '6.8" P-OLED rotativo', processor: "Snapdragon 765G", ramStorage: "8 GB / 128–256 GB", battery: "4.000 mAh", camera: "64 MP tripla", image: "images/lg-wing.jpg" }
+        { year: "2020", model: "LG Wing", screen: '6.8" P-OLED rotativo', processor: "Snapdragon 765G", ramStorage: "8 GB / 128–256 GB", battery: "4.000 mAh", camera: "64 MP tripla", image: "lg-wing.jpg" }
       ]
     }
   }
@@ -2329,7 +2329,7 @@ function showHome() {
                 </div>
                 <div class="hero-visual">
                     <div class="hero-glow"></div>
-                    <img src="imagens/hero-smartphones.jpg" alt="Galaxy S26 Ultra e iPhone 18 Pro Max" class="hero-image">
+                    <img src="hero-smartphones.jpg" alt="Galaxy S26 Ultra e iPhone 18 Pro Max" class="hero-image">
                     <p class="hero-note">Tecnologia<br>que aproxima<br>você do futuro.</p>
                 </div>
             </div>
