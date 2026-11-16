@@ -2329,7 +2329,7 @@ function showHome() {
                 </div>
                 <div class="hero-visual">
                     <div class="hero-glow"></div>
-                    <img src="3259/1001265992.png" alt="Galaxy S26 Ultra e iPhone 18 Pro Max" class="hero-image">
+                    <img src="1001265992.png" alt="Galaxy S26 Ultra e iPhone 18 Pro Max" class="hero-image">
                     <p class="hero-note">Tecnologia<br>que aproxima<br>você do futuro.</p>
                 </div>
             </div>
